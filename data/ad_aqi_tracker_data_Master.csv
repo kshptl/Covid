@@ -1,0 +1,2089 @@
+Date, AQI Value,Main Pollutant,County,Site Name,Site ID,Source,20-year High (1980-2019),20-year Low (1980-2019),5-year Average (2015-2019)
+1/1/2020,24,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,63,6,30.8
+1/2/2020,31,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,58,17,33.4
+1/3/2020,23,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,41,13,32.2
+1/4/2020,34,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,59,15,28.6
+1/5/2020,27,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,59,12,28.6
+1/6/2020,26,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,64,17,32.4
+1/7/2020,29,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,56,20,34.8
+1/8/2020,30,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,65,14,33.8
+1/9/2020,25,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,54,16,35
+1/10/2020,31,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,56,9,32.2
+1/11/2020,32,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,62,24,31.4
+1/12/2020,30,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,51,15,30.6
+1/13/2020,28,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,60,19,31.8
+1/14/2020,21,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,64,8,30.6
+1/15/2020,48,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,67,15,43.8
+1/16/2020,31,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,63,18,41
+1/17/2020,32,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,68,13,33.2
+1/18/2020,31,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,49,8,35
+1/19/2020,28,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,75,16,38.6
+1/20/2020,36,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,63,10,28
+1/21/2020,31,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,53,13,35.6
+1/22/2020,28,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,66,11,36
+1/23/2020,45,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,58,17,33.4
+1/24/2020,31,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,63,10,33
+1/25/2020,34,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,62,22,33.2
+1/26/2020,21,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,51,18,32.2
+1/27/2020,26,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,57,15,33.4
+1/28/2020,31,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,72,19,31.6
+1/29/2020,31,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,71,7,37
+1/30/2020,31,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,71,11,34
+1/31/2020,33,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,54,17,37.8
+2/1/2020,29,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,63,17,34.8
+2/2/2020,52,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,68,14,39.6
+2/3/2020,31,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,65,22,41.6
+2/4/2020,34,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,59,9,37.6
+2/5/2020,29,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,68,20,40
+2/6/2020,24,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,63,18,37.6
+2/7/2020,29,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,167,15,33.6
+2/8/2020,33,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,60,15,39
+2/9/2020,32,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,65,26,36
+2/10/2020,28,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,69,16,33
+2/11/2020,22,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,66,24,33.6
+2/12/2020,30,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,58,26,35.6
+2/13/2020,31,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,46,18,34
+2/14/2020,29,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,56,19,34
+2/15/2020,28,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,59,27,35.2
+2/16/2020,29,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,62,21,33.4
+2/17/2020,40,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,53,26,37.2
+2/18/2020,34,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,48,20,35.4
+2/19/2020,32,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,56,19,37.4
+2/20/2020,34,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,83,26,34.8
+2/21/2020,31,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,65,13,41.4
+2/22/2020,34,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,63,23,34
+2/23/2020,38,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,52,20,37.4
+2/24/2020,33,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,51,20,31.6
+2/25/2020,30,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,39,26,33.2
+2/26/2020,35,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,45,22,31.6
+2/27/2020,35,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,67,19,34.6
+2/28/2020,33,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,46,23,38
+2/29/2020,33,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,46,32,.
+3/1/2020,38,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,68,26,43.6
+3/2/2020,41,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,47,29,38.4
+3/3/2020,44,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,62,27,41.2
+3/4/2020,36,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,63,28,41.4
+3/5/2020,34,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,55,29,39.2
+3/6/2020,32,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,55,24,44
+3/7/2020,36,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,69,31,51
+3/8/2020,34,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,62,34,48.2
+3/9/2020,38,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,68,35,47.8
+3/10/2020,34,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,59,31,46.4
+3/11/2020,30,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,58,32,41.2
+3/12/2020,31,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,64,24,38.8
+3/13/2020,38,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,75,31,40.2
+3/14/2020,37,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,69,31,39.8
+3/15/2020,33,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,62,26,36.8
+3/16/2020,39,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,58,29,44.8
+3/17/2020,33,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,44,31,41.4
+3/18/2020,37,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,60,33,42.6
+3/19/2020,30,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,66,31,40
+3/20/2020,41,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,61,33,42.2
+3/21/2020,34,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,77,21,39.4
+3/22/2020,32,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,74,32,41.8
+3/23/2020,34,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,58,31,42.2
+3/24/2020,32,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,67,29,46.2
+3/25/2020,21,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,80,19,40.6
+3/26/2020,37,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,64,32,39.2
+3/27/2020,32,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,67,25,37
+3/28/2020,36,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,79,30,37.6
+3/29/2020,32,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,51,26,40.2
+3/30/2020,32,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,87,28,40.6
+3/31/2020,36,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,101,31,42.2
+4/1/2020,39,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,55,31,38.6
+4/2/2020,41,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,67,33,42.6
+4/3/2020,34,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,64,33,46.6
+4/4/2020,34,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,61,32,42.2
+4/5/2020,29,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,54,33,42
+4/6/2020,35,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,74,32,43.2
+4/7/2020,31,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,70,31,42.2
+4/8/2020,44,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,71,28,41.2
+4/9/2020,44,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,64,34,40.6
+4/10/2020,36,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,71,31,43.4
+4/11/2020,40,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,64,29,44
+4/12/2020,41,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,61,32,49.2
+4/13/2020,19,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,58,35,43.4
+4/14/2020,19,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,59,27,40.8
+4/15/2020,40,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,71,20,42.4
+4/16/2020,40,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,136,20,46
+4/17/2020,31,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,100,34,39.6
+4/18/2020,33,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,105,30,45.4
+4/19/2020,24,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,150,31,47.6
+4/21/2020,38,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,51,35,42
+4/22/2020,40,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,76,26,40.6
+4/23/2020,37,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,108,28,42.4
+4/24/2020,37,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,112,36,46.4
+4/25/2020,42,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,74,32,41.8
+4/26/2020,37,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,105,21,45.4
+4/27/2020,31,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,67,25,42.2
+4/28/2020,35,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,115,24,45.2
+4/29/2020,40,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,84,33,44
+4/30/2020,40,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,101,25,41.6
+5/1/2020,39,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,136,29,53.6
+5/2/2020,38,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,150,27,49.4
+5/3/2020,36,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,156,27,45.4
+5/4/2020,42,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,147,23,43.4
+5/5/2020,38,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,101,26,40
+5/6/2020,37,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,133,28,40.8
+5/7/2020,42,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,115,30,41.8
+5/8/2020,34,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,136,34,43.8
+5/9/2020,28,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,108,32,43
+5/10/2020,37,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,122,21,36.4
+5/11/2020,33,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,151,21,39.6
+5/12/2020,34,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,112,33,48.4
+5/13/2020,25,PM2.5,Atlantic,Brigantine,34-001-0006,AirNow,64,32,40.6
+5/14/2020,44,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,61,25,41
+5/15/2020,42,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,97,31,43.2
+5/16/2020,44,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,90,32,45.4
+5/17/2020,37,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,101,31,43.4
+5/18/2020,39,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,67,33,48.8
+5/19/2020,37,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,79,31,43.6
+5/20/2020,32,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,101,31,44.8
+5/21/2020,31,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,115,31,40.2
+5/22/2020,31,Ozone,Atlantic,Brigantine,34-001-0006,AirNow,77,21,43.6
+1/1/2020,8,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,93,9,31.4
+1/2/2020,53,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,64,3,36
+1/3/2020,68,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,66,2,43
+1/4/2020,59,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,66,6,35.6
+1/5/2020,6,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,80,2,29
+1/6/2020,36,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,102,9,34
+1/7/2020,40,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,96,2,40.6
+1/8/2020,32,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,75,6,56
+1/9/2020,17,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,74,3,45.33333333
+1/10/2020,45,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,65,9,41
+1/11/2020,45,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,121,9,69.5
+1/12/2020,18,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,66,2,45.33333333
+1/13/2020,41,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,114,7,25
+1/14/2020,60,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,74,2,33
+1/15/2020,62,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,105,2,62.25
+1/16/2020,55,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,116,6,58.4
+1/17/2020,13,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,65,6,36.66666667
+1/18/2020,32,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,75,3,56
+1/19/2020,20,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,88,0,38
+1/20/2020,18,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,69,15,33.75
+1/21/2020,25,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,62,5,34.75
+1/22/2020,51,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,96,10,51.2
+1/23/2020,76,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,106,5,44
+1/24/2020,76,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,68,12,35.25
+1/25/2020,50,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,81,6,30.6
+1/26/2020,22,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,63,15,40
+1/27/2020,26,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,58,15,40.5
+1/28/2020,14,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,82,8,37.2
+1/29/2020,11,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,99,2,50.25
+2/4/2020,68,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,81,10,49.5
+2/5/2020,20,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,99,13,43
+2/6/2020,33,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,72,22,40
+2/7/2020,33,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,92,8,50
+2/8/2020,25,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,81,1,42
+2/9/2020,44,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,84,4,30.33333333
+2/10/2020,45,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,96,20,41.75
+2/11/2020,53,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,99,31,51.5
+2/12/2020,33,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,62,16,38.2
+2/13/2020,46,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,56,22,30.5
+2/14/2020,31,Ozone,Bergen,Leonia,34-003-0006,AirNow,72,5,47.5
+2/15/2020,28,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,94,18,63.2
+2/16/2020,47,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,145,5,36.4
+2/17/2020,43,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,67,19,35.5
+2/18/2020,52,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,74,13,43.6
+2/19/2020,34,Ozone,Bergen,Leonia,34-003-0006,AirNow,81,9,46.25
+2/20/2020,32,Ozone,Bergen,Leonia,34-003-0006,AirNow,74,13,47.5
+2/21/2020,19,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,78,6,44.2
+2/22/2020,44,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,89,20,50
+2/23/2020,54,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,88,21,51.2
+2/24/2020,66,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,96,13,47
+2/25/2020,62,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,83,13,39.75
+2/26/2020,54,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,106,19,40
+2/27/2020,33,Ozone,Bergen,Leonia,34-003-0006,AirNow,95,14,50
+2/28/2020,32,Ozone,Bergen,Leonia,34-003-0006,AirNow,64,27,49.8
+2/29/2020,33,Ozone,Bergen,Leonia,34-003-0006,AirNow,55,33,.
+3/1/2020,38,Ozone,Bergen,Leonia,34-003-0006,AirNow,80,27,51
+3/2/2020,56,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,95,11,47.25
+3/3/2020,56,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,63,22,42
+3/4/2020,34,Ozone,Bergen,Leonia,34-003-0006,AirNow,91,16,48
+3/5/2020,32,Ozone,Bergen,Leonia,34-003-0006,AirNow,74,3,40
+3/6/2020,35,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,69,21,40.25
+3/7/2020,39,Ozone,Bergen,Leonia,34-003-0006,AirNow,96,19,60.8
+3/8/2020,35,Ozone,Bergen,Leonia,34-003-0006,AirNow,73,17,50.4
+3/9/2020,49,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,110,19,62.8
+3/10/2020,64,Ozone,Bergen,Leonia,34-003-0006,AirNow,98,19,61
+3/11/2020,74,Ozone,Bergen,Leonia,34-003-0006,AirNow,80,19,41.6
+3/12/2020,47,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,75,12,34.2
+3/13/2020,46,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,116,8,44
+3/14/2020,37,Ozone,Bergen,Leonia,34-003-0006,AirNow,123,24,41.8
+3/15/2020,39,Ozone,Bergen,Leonia,34-003-0006,AirNow,105,12,42.2
+3/16/2020,37,Ozone,Bergen,Leonia,34-003-0006,AirNow,82,20,47.2
+3/17/2020,39,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,66,19,43.8
+3/18/2020,33,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,60,18,40
+3/19/2020,33,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,70,24,43
+3/20/2020,61,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,95,20,44.8
+3/21/2020,41,Ozone,Bergen,Leonia,34-003-0006,AirNow,61,12,46
+3/22/2020,40,Ozone,Bergen,Leonia,34-003-0006,AirNow,72,18,41
+3/23/2020,19,PM2.5,Bergen,Fort Lee Near Road,34-003-0010,AirNow,71,24,42.6
+3/24/2020,34,Ozone,Bergen,Leonia,34-003-0006,AirNow,54,31,46
+3/25/2020,31,Ozone,Bergen,Leonia,34-003-0006,AirNow,72,21,53.2
+3/26/2020,31,Ozone,Bergen,Leonia,34-003-0006,AirNow,79,9,45.2
+3/27/2020,39,Ozone,Bergen,Leonia,34-003-0006,AirNow,74,28,42.2
+3/28/2020,37,Ozone,Bergen,Leonia,34-003-0006,AirNow,71,13,50.6
+3/29/2020,37,Ozone,Bergen,Leonia,34-003-0006,AirNow,78,16,52.2
+3/30/2020,26,Ozone,Bergen,Leonia,34-003-0006,AirNow,97,23,47.6
+3/31/2020,31,Ozone,Bergen,Leonia,34-003-0006,AirNow,88,23,42.2
+4/1/2020,37,Ozone,Bergen,Leonia,34-003-0006,AirNow,83,21,40.4
+4/2/2020,35,Ozone,Bergen,Leonia,34-003-0006,AirNow,95,22,41.8
+4/3/2020,26,Ozone,Bergen,Leonia,34-003-0006,AirNow,91,25,47
+4/4/2020,34,Ozone,Bergen,Leonia,34-003-0006,AirNow,68,28,41.4
+4/5/2020,22,Ozone,Bergen,Leonia,34-003-0006,AirNow,60,30,43
+4/6/2020,39,Ozone,Bergen,Leonia,34-003-0006,AirNow,68,7,49
+4/7/2020,44,Ozone,Bergen,Leonia,34-003-0006,AirNow,79,22,46.2
+4/8/2020,36,Ozone,Bergen,Leonia,34-003-0006,AirNow,61,19,43.2
+4/9/2020,41,Ozone,Bergen,Leonia,34-003-0006,AirNow,72,13,43
+4/10/2020,35,Ozone,Bergen,Leonia,34-003-0006,AirNow,106,31,47.8
+4/11/2020,43,Ozone,Bergen,Leonia,34-003-0006,AirNow,80,24,50
+4/12/2020,43,Ozone,Bergen,Leonia,34-003-0006,AirNow,73,10,51.8
+4/13/2020,40,Ozone,Bergen,Leonia,34-003-0006,AirNow,67,23,51.6
+4/14/2020,42,Ozone,Bergen,Leonia,34-003-0006,AirNow,82,26,48
+4/15/2020,43,Ozone,Bergen,Leonia,34-003-0006,AirNow,90,28,42.8
+4/16/2020,38,Ozone,Bergen,Leonia,34-003-0006,AirNow,115,18,46.2
+4/17/2020,43,Ozone,Bergen,Leonia,34-003-0006,AirNow,119,19,41.6
+4/18/2020,38,Ozone,Bergen,Leonia,34-003-0006,AirNow,100,28,52.6
+4/19/2020,47,Ozone,Bergen,Leonia,34-003-0006,AirNow,93,28,43.2
+4/20/2020,38,Ozone,Bergen,Leonia,34-003-0006,AirNow,133,21,43.8
+4/21/2020,36,Ozone,Bergen,Leonia,34-003-0006,AirNow,86,14,46.8
+4/22/2020,38,Ozone,Bergen,Leonia,34-003-0006,AirNow,74,19,46
+4/23/2020,32,Ozone,Bergen,Leonia,34-003-0006,AirNow,76,24,40.8
+4/24/2020,30,Ozone,Bergen,Leonia,34-003-0006,AirNow,70,19,40.8
+4/25/2020,39,Ozone,Bergen,Leonia,34-003-0006,AirNow,83,23,40
+4/26/2020,38,Ozone,Bergen,Leonia,34-003-0006,AirNow,71,14,37.4
+4/27/2020,35,Ozone,Bergen,Leonia,34-003-0006,AirNow,90,28,35.2
+4/28/2020,40,Ozone,Bergen,Leonia,34-003-0006,AirNow,90,25,48.4
+4/29/2020,39,Ozone,Bergen,Leonia,34-003-0006,AirNow,58,29,39.4
+4/30/2020,42,Ozone,Bergen,Leonia,34-003-0006,AirNow,62,17,43.8
+5/1/2020,43,Ozone,Bergen,Leonia,34-003-0006,AirNow,105,22,51.6
+5/2/2020,38,Ozone,Bergen,Leonia,34-003-0006,AirNow,101,18,57
+5/3/2020,47,Ozone,Bergen,Leonia,34-003-0006,AirNow,136,24,52.6
+5/4/2020,39,Ozone,Bergen,Leonia,34-003-0006,AirNow,143,18,56.6
+5/5/2020,43,Ozone,Bergen,Leonia,34-003-0006,AirNow,80,19,47.4
+5/6/2020,33,Ozone,Bergen,Leonia,34-003-0006,AirNow,80,19,38.8
+5/7/2020,42,Ozone,Bergen,Leonia,34-003-0006,AirNow,77,22,40.4
+5/8/2020,32,Ozone,Bergen,Leonia,34-003-0006,AirNow,79,20,45
+5/9/2020,29,Ozone,Bergen,Leonia,34-003-0006,AirNow,98,14,48.8
+5/10/2020,43,Ozone,Bergen,Leonia,34-003-0006,AirNow,112,23,45.2
+5/11/2020,34,Ozone,Bergen,Leonia,34-003-0006,AirNow,112,18,47.6
+5/12/2020,43,Ozone,Bergen,Leonia,34-003-0006,AirNow,100,28,48.4
+5/13/2020,43,Ozone,Bergen,Leonia,34-003-0006,AirNow,93,22,37.8
+5/14/2020,44,Ozone,Bergen,Leonia,34-003-0006,AirNow,69,26,49.4
+5/15/2020,50,Ozone,Bergen,Leonia,34-003-0006,AirNow,105,14,46
+5/16/2020,42,Ozone,Bergen,Leonia,34-003-0006,AirNow,90,14,45.8
+5/17/2020,42,Ozone,Bergen,Leonia,34-003-0006,AirNow,112,20,65.6
+5/18/2020,44,Ozone,Bergen,Leonia,34-003-0006,AirNow,112,25,61.8
+5/19/2020,39,Ozone,Bergen,Leonia,34-003-0006,AirNow,74,25,54
+5/20/2020,40,Ozone,Bergen,Leonia,34-003-0006,AirNow,70,25,46
+5/21/2020,33,Ozone,Bergen,Leonia,34-003-0006,AirNow,87,20,39.8
+5/22/2020,35,Ozone,Bergen,Leonia,34-003-0006,AirNow,108,17,44
+1/1/2020,30,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,101,22,37.6
+1/2/2020,52,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,63,11,42.25
+1/3/2020,41,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,58,16,43
+1/4/2020,46,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,86,17,39
+1/5/2020,30,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,85,16,32.4
+1/6/2020,42,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,89,19,52.4
+1/7/2020,38,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,87,23,45.6
+1/8/2020,45,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,74,7,44.4
+1/9/2020,24,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,80,15,47.2
+1/10/2020,32,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,67,17,41.8
+1/11/2020,30,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,80,23,50
+1/12/2020,51,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,63,16,40
+1/13/2020,30,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,105,24,46.6
+1/14/2020,32,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,76,20,39.8
+1/15/2020,60,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,89,20,62.6
+1/16/2020,55,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,89,24,65.2
+1/17/2020,32,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,71,12,38.8
+1/18/2020,28,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,82,5,55.4
+1/19/2020,43,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,88,6,51.8
+1/20/2020,37,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,77,19,51.6
+1/21/2020,32,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,75,19,49.2
+1/22/2020,43,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,107,26,48
+1/23/2020,82,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,73,11,37.8
+1/24/2020,65,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,81,15,41.6
+1/25/2020,33,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,88,23,56.4
+1/26/2020,43,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,67,22,45.4
+1/27/2020,38,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,84,20,49.6
+1/28/2020,36,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,103,21,57.2
+1/29/2020,33,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,87,8,48.8
+1/30/2020,23,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,94,20,46.4
+1/31/2020,39,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,76,13,38.8
+2/1/2020,56,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,106,16,57
+2/2/2020,61,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,95,19,50
+2/3/2020,48,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,104,25,46.8
+2/4/2020,46,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,85,10,46
+2/5/2020,34,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,91,16,48.4
+2/6/2020,19,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,81,14,47
+2/7/2020,38,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,84,21,48
+2/8/2020,40,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,71,20,52.2
+2/9/2020,47,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,102,19,37.8
+2/10/2020,27,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,71,25,49.4
+2/11/2020,40,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,74,16,43.8
+2/12/2020,40,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,90,17,46.8
+2/13/2020,24,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,66,21,38.2
+2/14/2020,31,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,74,21,45
+2/15/2020,32,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,68,22,41.6
+2/16/2020,35,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,85,20,41
+2/17/2020,54,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,68,27,45.4
+2/18/2020,41,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,67,24,52
+2/19/2020,42,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,84,17,43
+2/20/2020,31,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,116,25,38.8
+2/21/2020,31,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,87,19,50.6
+2/22/2020,55,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,88,20,45.4
+2/23/2020,48,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,78,23,39.2
+2/24/2020,59,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,80,29,38
+2/25/2020,31,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,88,11,51.4
+2/26/2020,34,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,88,14,44
+2/27/2020,34,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,81,27,50
+2/28/2020,54,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,72,27,38.8
+2/29/2020,38,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,56,32,.
+3/1/2020,38,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,75,31,48
+3/2/2020,46,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,68,15,52.8
+3/3/2020,48,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,68,18,45.4
+3/4/2020,52,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,85,28,50
+3/5/2020,35,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,71,27,42
+3/6/2020,40,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,67,25,53.2
+3/7/2020,37,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,73,19,58.8
+3/8/2020,37,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,73,19,61.6
+3/9/2020,46,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,114,20,73.8
+3/10/2020,33,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,69,14,57.4
+3/11/2020,34,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,101,27,46
+3/12/2020,44,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,79,26,38
+3/13/2020,41,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,93,33,41.2
+3/14/2020,39,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,97,32,42.6
+3/15/2020,36,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,73,23,40.2
+3/16/2020,39,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,61,32,45.2
+3/17/2020,35,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,63,25,52.8
+3/18/2020,38,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,67,31,43.4
+3/19/2020,31,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,67,29,47.2
+3/20/2020,37,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,97,33,41.4
+3/21/2020,37,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,97,32,42
+3/22/2020,36,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,70,33,41.4
+3/23/2020,33,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,76,29,43.6
+3/24/2020,35,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,60,34,45.4
+3/25/2020,34,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,80,20,46.2
+3/26/2020,42,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,84,37,41.8
+3/27/2020,41,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,74,21,36.2
+3/28/2020,38,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,64,22,41
+3/29/2020,35,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,64,28,45.2
+3/30/2020,31,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,97,30,46.2
+3/31/2020,33,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,115,32,40.4
+4/1/2020,39,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,63,29,39.2
+4/2/2020,41,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,84,34,42.2
+4/3/2020,35,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,79,36,46
+4/4/2020,34,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,67,31,43.4
+4/5/2020,37,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,77,30,42.4
+4/6/2020,41,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,105,37,44.6
+4/7/2020,44,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,93,31,42.8
+4/8/2020,44,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,84,31,45
+4/9/2020,43,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,80,35,46.2
+4/10/2020,39,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,84,33,47
+4/11/2020,41,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,100,31,51.6
+4/12/2020,48,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,70,31,47.6
+4/13/2020,41,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,77,36,50
+4/14/2020,40,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,77,26,44.4
+4/15/2020,42,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,126,35,45.4
+4/16/2020,41,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,147,33,46.4
+4/17/2020,44,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,126,36,43.2
+4/18/2020,39,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,150,29,60.2
+4/19/2020,45,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,154,27,43.2
+4/20/2020,37,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,156,39,42
+4/21/2020,40,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,80,31,41.2
+4/22/2020,40,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,108,25,44.6
+4/23/2020,37,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,122,30,44
+4/24/2020,32,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,100,32,42.4
+4/25/2020,44,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,108,31,39.4
+4/26/2020,35,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,112,26,41
+4/27/2020,35,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,90,26,39.6
+4/28/2020,41,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,115,33,51
+4/29/2020,42,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,97,34,43
+4/30/2020,44,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,108,36,43.4
+5/1/2020,43,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,143,31,49.2
+5/2/2020,39,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,156,28,54.8
+5/3/2020,44,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,185,25,47.4
+5/4/2020,47,PM2.5,Camden,Camden Spruce Street,34-007-0002,AirNow,182,26,51.2
+5/5/2020,41,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,143,23,47.8
+5/6/2020,38,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,164,21,40.4
+5/7/2020,44,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,147,27,48
+5/8/2020,34,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,164,35,51
+5/9/2020,32,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,150,32,51.6
+5/10/2020,43,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,147,29,47.4
+5/11/2020,33,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,166,34,49.8
+5/12/2020,36,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,159,24,49
+5/13/2020,47,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,122,31,36.6
+5/14/2020,46,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,74,27,49
+5/15/2020,48,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,115,27,51
+5/16/2020,44,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,108,29,48.6
+5/17/2020,39,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,122,22,59.6
+5/18/2020,41,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,143,33,71.8
+5/19/2020,40,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,101,24,51.2
+5/20/2020,35,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,93,36,50.6
+5/21/2020,35,Ozone,Camden,Camden Spruce Street,34-007-0002,AirNow,101,24,50.4
+5/22/2020,31,Ozone,Camden,Ancora State Hospital,34-007-1001,AirNow,97,27,47
+1/1/2020,38,PM2.5,Cumberland,Millville,34-011-0007,AirNow,67,14,32.2
+1/2/2020,27,Ozone,Cumberland,Millville,34-011-0007,AirNow,38,17,29.6
+1/3/2020,43,PM2.5,Cumberland,Millville,34-011-0007,AirNow,38,13,27.2
+1/4/2020,47,PM2.5,Cumberland,Millville,34-011-0007,AirNow,54,14,30.4
+1/5/2020,29,Ozone,Cumberland,Millville,34-011-0007,AirNow,68,11,30.4
+1/6/2020,36,PM2.5,Cumberland,Millville,34-011-0007,AirNow,74,16,38.6
+1/7/2020,29,Ozone,Cumberland,Millville,34-011-0007,AirNow,61,19,37.4
+1/8/2020,42,PM2.5,Cumberland,Millville,34-011-0007,AirNow,58,4,36.6
+1/9/2020,24,Ozone,Cumberland,Millville,34-011-0007,AirNow,55,14,29.6
+1/10/2020,31,Ozone,Cumberland,Millville,34-011-0007,AirNow,75,9,31
+1/11/2020,35,Ozone,Cumberland,Millville,34-011-0007,AirNow,63,18,31.2
+1/12/2020,32,Ozone,Cumberland,Millville,34-011-0007,AirNow,61,13,29.8
+1/13/2020,28,PM2.5,Cumberland,Millville,34-011-0007,AirNow,56,19,30
+1/14/2020,30,PM2.5,Cumberland,Millville,34-011-0007,AirNow,66,15,26.2
+1/15/2020,46,PM2.5,Cumberland,Millville,34-011-0007,AirNow,68,15,44
+1/16/2020,40,PM2.5,Cumberland,Millville,34-011-0007,AirNow,71,10,43.8
+1/17/2020,30,Ozone,Cumberland,Millville,34-011-0007,AirNow,54,10,30.8
+1/18/2020,31,Ozone,Cumberland,Millville,34-011-0007,AirNow,46,4,37.6
+1/19/2020,27,PM2.5,Cumberland,Millville,34-011-0007,AirNow,70,2,35.4
+1/20/2020,35,Ozone,Cumberland,Millville,34-011-0007,AirNow,63,17,34.4
+1/21/2020,30,Ozone,Cumberland,Millville,34-011-0007,AirNow,61,16,35
+1/22/2020,43,PM2.5,Cumberland,Millville,34-011-0007,AirNow,52,8,28
+1/23/2020,57,PM2.5,Cumberland,Millville,34-011-0007,AirNow,63,6,30.6
+1/24/2020,52,PM2.5,Cumberland,Millville,34-011-0007,AirNow,57,12,29.8
+1/25/2020,38,Ozone,Cumberland,Millville,34-011-0007,AirNow,63,19,36
+1/26/2020,23,PM2.5,Cumberland,Millville,34-011-0007,AirNow,54,19,36.2
+1/27/2020,28,Ozone,Cumberland,Millville,34-011-0007,AirNow,67,19,34.4
+1/28/2020,31,Ozone,Cumberland,Millville,34-011-0007,AirNow,68,21,34.6
+1/29/2020,32,Ozone,Cumberland,Millville,34-011-0007,AirNow,77,10,40.4
+1/30/2020,34,PM2.5,Cumberland,Millville,34-011-0007,AirNow,69,12,35
+1/31/2020,33,Ozone,Cumberland,Millville,34-011-0007,AirNow,48,16,32.8
+2/1/2020,33,PM2.5,Cumberland,Millville,34-011-0007,AirNow,56,17,44.2
+2/2/2020,68,PM2.5,Cumberland,Millville,34-011-0007,AirNow,81,15,41.8
+2/3/2020,33,Ozone,Cumberland,Millville,34-011-0007,AirNow,65,13,39.6
+2/4/2020,39,PM2.5,Cumberland,Millville,34-011-0007,AirNow,66,8,36.6
+2/5/2020,37,PM2.5,Cumberland,Millville,34-011-0007,AirNow,65,18,40.2
+2/6/2020,22,Ozone,Cumberland,Millville,34-011-0007,AirNow,67,16,44.4
+2/7/2020,31,Ozone,Cumberland,Millville,34-011-0007,AirNow,67,13,45.4
+2/8/2020,36,Ozone,Cumberland,Millville,34-011-0007,AirNow,54,19,39.6
+2/9/2020,45,PM2.5,Cumberland,Millville,34-011-0007,AirNow,59,24,35.6
+2/10/2020,29,Ozone,Cumberland,Millville,34-011-0007,AirNow,59,19,33.4
+2/11/2020,31,PM2.5,Cumberland,Millville,34-011-0007,AirNow,61,19,35.6
+2/12/2020,36,PM2.5,Cumberland,Millville,34-011-0007,AirNow,55,24,33.4
+2/13/2020,31,Ozone,Cumberland,Millville,34-011-0007,AirNow,44,18,34.8
+2/14/2020,32,Ozone,Cumberland,Millville,34-011-0007,AirNow,54,18,32.2
+2/15/2020,35,PM2.5,Cumberland,Millville,34-011-0007,AirNow,72,9,34.4
+2/16/2020,36,PM2.5,Cumberland,Millville,34-011-0007,AirNow,71,10,33
+2/17/2020,48,PM2.5,Cumberland,Millville,34-011-0007,AirNow,51,24,35.6
+2/18/2020,41,Ozone,Cumberland,Millville,34-011-0007,AirNow,53,24,38.6
+2/19/2020,33,Ozone,Cumberland,Millville,34-011-0007,AirNow,55,28,38.2
+2/20/2020,39,PM2.5,Cumberland,Millville,34-011-0007,AirNow,56,28,35.4
+2/21/2020,34,PM2.5,Cumberland,Millville,34-011-0007,AirNow,70,20,40.4
+2/22/2020,46,PM2.5,Cumberland,Millville,34-011-0007,AirNow,70,15,34.8
+2/23/2020,44,PM2.5,Cumberland,Millville,34-011-0007,AirNow,74,17,36.2
+2/24/2020,52,PM2.5,Cumberland,Millville,34-011-0007,AirNow,54,19,34.8
+2/25/2020,29,Ozone,Cumberland,Millville,34-011-0007,AirNow,69,21,33
+2/26/2020,36,Ozone,Cumberland,Millville,34-011-0007,AirNow,72,8,31
+2/27/2020,37,Ozone,Cumberland,Millville,34-011-0007,AirNow,72,26,36.25
+2/28/2020,35,PM2.5,Cumberland,Millville,34-011-0007,AirNow,66,28,39
+2/29/2020,35,PM2.5,Cumberland,Millville,34-011-0007,AirNow,43,29,.
+3/1/2020,42,Ozone,Cumberland,Millville,34-011-0007,AirNow,63,24,40
+3/2/2020,44,Ozone,Cumberland,Millville,34-011-0007,AirNow,69,18,37.2
+3/3/2020,43,PM2.5,Cumberland,Millville,34-011-0007,AirNow,66,17,41.8
+3/4/2020,38,Ozone,Cumberland,Millville,34-011-0007,AirNow,43,26,36
+3/5/2020,51,PM2.5,Cumberland,Millville,34-011-0007,AirNow,57,29,39
+3/6/2020,29,Ozone,Cumberland,Millville,34-011-0007,AirNow,71,28,50.2
+3/7/2020,38,Ozone,Cumberland,Millville,34-011-0007,AirNow,76,8,48.4
+3/8/2020,37,Ozone,Cumberland,Millville,34-011-0007,AirNow,61,16,47.4
+3/9/2020,44,Ozone,Cumberland,Millville,34-011-0007,AirNow,80,8,48
+3/10/2020,39,PM2.5,Cumberland,Millville,34-011-0007,AirNow,64,20,42.2
+3/11/2020,38,PM2.5,Cumberland,Millville,34-011-0007,AirNow,60,31,38.2
+3/12/2020,35,PM2.5,Cumberland,Millville,34-011-0007,AirNow,66,26,36.8
+3/13/2020,40,Ozone,Cumberland,Millville,34-011-0007,AirNow,82,31,39.4
+3/14/2020,41,Ozone,Cumberland,Millville,34-011-0007,AirNow,87,32,37.6
+3/15/2020,37,PM2.5,Cumberland,Millville,34-011-0007,AirNow,72,23,36.8
+3/16/2020,42,Ozone,Cumberland,Millville,34-011-0007,AirNow,58,26,42.2
+3/17/2020,42,PM2.5,Cumberland,Millville,34-011-0007,AirNow,44,28,39.25
+3/18/2020,40,Ozone,Cumberland,Millville,34-011-0007,AirNow,61,31,39.4
+3/19/2020,29,Ozone,Cumberland,Millville,34-011-0007,AirNow,58,30,42
+3/20/2020,36,Ozone,Cumberland,Millville,34-011-0007,AirNow,90,33,38.4
+3/21/2020,36,Ozone,Cumberland,Millville,34-011-0007,AirNow,84,26,41.8
+3/22/2020,40,Ozone,Cumberland,Millville,34-011-0007,AirNow,55,30,40.6
+3/23/2020,36,Ozone,Cumberland,Millville,34-011-0007,AirNow,70,26,46
+3/24/2020,44,PM2.5,Cumberland,Millville,34-011-0007,AirNow,59,26,45.6
+3/25/2020,37,Ozone,Cumberland,Millville,34-011-0007,AirNow,84,18,42.6
+3/26/2020,42,Ozone,Cumberland,Millville,34-011-0007,AirNow,80,31,39.4
+3/27/2020,40,Ozone,Cumberland,Millville,34-011-0007,AirNow,64,23,35
+3/28/2020,39,Ozone,Cumberland,Millville,34-011-0007,AirNow,66,23,34.8
+3/29/2020,34,Ozone,Cumberland,Millville,34-011-0007,AirNow,58,26,41.4
+3/30/2020,35,Ozone,Cumberland,Millville,34-011-0007,AirNow,84,30,41.8
+3/31/2020,39,Ozone,Cumberland,Millville,34-011-0007,AirNow,100,22,40.4
+4/1/2020,40,Ozone,Cumberland,Millville,34-011-0007,AirNow,69,32,37
+4/2/2020,44,Ozone,Cumberland,Millville,34-011-0007,AirNow,77,30,40.4
+4/3/2020,38,Ozone,Cumberland,Millville,34-011-0007,AirNow,51,20,40.4
+4/4/2020,33,Ozone,Cumberland,Millville,34-011-0007,AirNow,54,30,41.4
+4/5/2020,36,Ozone,Cumberland,Millville,34-011-0007,AirNow,61,31,40
+4/6/2020,43,Ozone,Cumberland,Millville,34-011-0007,AirNow,112,22,44.2
+4/7/2020,44,Ozone,Cumberland,Millville,34-011-0007,AirNow,64,21,42.2
+4/8/2020,47,Ozone,Cumberland,Millville,34-011-0007,AirNow,80,14,41.4
+4/9/2020,44,Ozone,Cumberland,Millville,34-011-0007,AirNow,58,13,38.6
+4/10/2020,38,Ozone,Cumberland,Millville,34-011-0007,AirNow,67,13,43.4
+4/11/2020,42,Ozone,Cumberland,Millville,34-011-0007,AirNow,80,28,43.6
+4/12/2020,47,Ozone,Cumberland,Millville,34-011-0007,AirNow,61,31,44.4
+4/13/2020,44,Ozone,Cumberland,Millville,34-011-0007,AirNow,58,30,44.4
+4/14/2020,43,Ozone,Cumberland,Millville,34-011-0007,AirNow,74,24,37.8
+4/16/2020,42,Ozone,Cumberland,Millville,34-011-0007,AirNow,147,21,46
+4/17/2020,46,Ozone,Cumberland,Millville,34-011-0007,AirNow,105,29,38.4
+4/18/2020,37,Ozone,Cumberland,Millville,34-011-0007,AirNow,147,30,56.2
+4/19/2020,46,Ozone,Cumberland,Millville,34-011-0007,AirNow,143,27,45
+4/20/2020,34,Ozone,Cumberland,Millville,34-011-0007,AirNow,143,38,40.6
+4/21/2020,42,Ozone,Cumberland,Millville,34-011-0007,AirNow,74,29,39.6
+4/22/2020,44,Ozone,Cumberland,Millville,34-011-0007,AirNow,105,22,42.8
+4/23/2020,39,Ozone,Cumberland,Millville,34-011-0007,AirNow,101,31,43.2
+4/24/2020,35,Ozone,Cumberland,Millville,34-011-0007,AirNow,74,34,44.2
+4/25/2020,46,Ozone,Cumberland,Millville,34-011-0007,AirNow,90,31,43.8
+4/26/2020,39,Ozone,Cumberland,Millville,34-011-0007,AirNow,87,23,45.4
+4/27/2020,34,Ozone,Cumberland,Millville,34-011-0007,AirNow,80,23,38.6
+4/28/2020,41,Ozone,Cumberland,Millville,34-011-0007,AirNow,115,33,43.6
+4/29/2020,44,PM2.5,Cumberland,Millville,34-011-0007,AirNow,87,31,38.8
+4/30/2020,43,Ozone,Cumberland,Millville,34-011-0007,AirNow,97,18,41
+5/1/2020,39,Ozone,Cumberland,Millville,34-011-0007,AirNow,129,25,43.2
+5/2/2020,42,Ozone,Cumberland,Millville,34-011-0007,AirNow,147,31,49.6
+5/3/2020,43,Ozone,Cumberland,Millville,34-011-0007,AirNow,156,26,42.2
+5/4/2020,44,Ozone,Cumberland,Millville,34-011-0007,AirNow,150,23,44.6
+5/5/2020,42,Ozone,Cumberland,Millville,34-011-0007,AirNow,115,21,42
+5/6/2020,40,Ozone,Cumberland,Millville,34-011-0007,AirNow,122,22,40
+5/7/2020,46,Ozone,Cumberland,Millville,34-011-0007,AirNow,119,27,42.8
+5/8/2020,39,Ozone,Cumberland,Millville,34-011-0007,AirNow,140,30,42.6
+5/9/2020,33,Ozone,Cumberland,Millville,34-011-0007,AirNow,122,23,39
+5/10/2020,44,Ozone,Cumberland,Millville,34-011-0007,AirNow,97,24,36.4
+5/11/2020,37,Ozone,Cumberland,Millville,34-011-0007,AirNow,143,26,38
+5/12/2020,39,Ozone,Cumberland,Millville,34-011-0007,AirNow,140,31,47.8
+5/13/2020,50,PM2.5,Cumberland,Millville,34-011-0007,AirNow,77,28,34
+5/14/2020,46,Ozone,Cumberland,Millville,34-011-0007,AirNow,58,24,40.2
+5/15/2020,49,Ozone,Cumberland,Millville,34-011-0007,AirNow,100,30,48.6
+5/16/2020,46,Ozone,Cumberland,Millville,34-011-0007,AirNow,100,29,47.4
+5/17/2020,47,PM2.5,Cumberland,Millville,34-011-0007,AirNow,100,26,43.2
+5/18/2020,40,Ozone,Cumberland,Millville,34-011-0007,AirNow,77,31,51
+5/19/2020,40,Ozone,Cumberland,Millville,34-011-0007,AirNow,67,28,43.6
+5/20/2020,37,PM2.5,Cumberland,Millville,34-011-0007,AirNow,87,31,38.8
+5/21/2020,35,Ozone,Cumberland,Millville,34-011-0007,AirNow,97,16,36.4
+5/22/2020,31,Ozone,Cumberland,Millville,34-011-0007,AirNow,87,18,37.4
+1/1/2020,24,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,104,11,28.8
+1/2/2020,52,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,62,10,35.4
+1/3/2020,56,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,58,16,39
+1/4/2020,54,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,56,19,33.4
+1/5/2020,31,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,113,9,32.6
+1/6/2020,28,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,71,22,40
+1/7/2020,35,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,84,19,41.8
+1/8/2020,31,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,67,3,48.4
+1/9/2020,24,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,87,16,40.4
+1/10/2020,36,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,66,1,37.8
+1/11/2020,40,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,116,19,40
+1/12/2020,30,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,59,16,39.2
+1/13/2020,11,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,83,4,31.2
+1/14/2020,53,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,74,14,28.4
+1/15/2020,23,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,77,10,52.6
+1/16/2020,43,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,62,14,50.2
+1/17/2020,33,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,77,26,43.6
+1/18/2020,23,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,66,15,49.8
+1/19/2020,31,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,67,14,38.6
+1/20/2020,35,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,65,5,27.4
+1/21/2020,30,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,62,1,42.4
+1/22/2020,41,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,92,17,47.8
+1/23/2020,70,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,65,22,35.4
+1/24/2020,80,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,62,11,34.6
+1/25/2020,37,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,68,16,36.2
+1/26/2020,18,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,69,21,36.2
+1/27/2020,20,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,53,16,38.2
+1/28/2020,32,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,87,12,37.8
+1/29/2020,32,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,82,4,39.2
+1/30/2020,25,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,99,13,32.4
+1/31/2020,52,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,69,2,39
+2/1/2020,59,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,88,7,40
+2/2/2020,49,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,99,19,40.6
+2/3/2020,54,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,93,16,42.4
+2/4/2020,56,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,77,8,38.2
+2/5/2020,26,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,72,23,42.8
+2/6/2020,7,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,74,15,37.4
+2/7/2020,29,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,93,14,49
+2/8/2020,31,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,59,17,33.2
+2/9/2020,54,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,88,19,41.4
+2/10/2020,36,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,75,19,43.6
+2/11/2020,41,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,66,27,44.4
+2/12/2020,30,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,63,12,33.2
+2/13/2020,23,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,57,22,36.6
+2/14/2020,31,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,54,16,39.6
+2/15/2020,23,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,72,12,49.4
+2/16/2020,48,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,107,22,30.4
+2/17/2020,56,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,74,28,34
+2/18/2020,53,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,65,16,38
+2/19/2020,36,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,116,9,39.4
+2/20/2020,33,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,95,6,37.6
+2/21/2020,34,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,71,6,34.8
+2/22/2020,44,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,79,3,34.8
+2/23/2020,44,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,69,13,39.8
+2/24/2020,66,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,88,19,31.6
+2/25/2020,53,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,70,24,33.6
+2/26/2020,48,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,66,19,33.2
+2/27/2020,35,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,74,10,34.2
+2/28/2020,33,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,57,18,39.8
+2/29/2020,33,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,42,38,.
+3/1/2020,38,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,88,19,49.4
+3/2/2020,60,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,89,26,37.6
+3/3/2020,52,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,55,19,34.6
+3/4/2020,36,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,104,19,47.2
+3/5/2020,33,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,47,11,32.4
+3/6/2020,28,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,68,14,34.6
+3/7/2020,37,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,67,20,53
+3/8/2020,35,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,76,10,50.8
+3/9/2020,44,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,71,31,51.6
+3/10/2020,37,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,71,26,50.2
+3/11/2020,29,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,84,14,37.6
+3/12/2020,36,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,85,7,33.6
+3/13/2020,39,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,81,2,35.4
+3/14/2020,36,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,50,19,29.4
+3/15/2020,37,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,114,18,37
+3/16/2020,31,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,67,23,40.8
+3/17/2020,32,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,54,10,38.2
+3/18/2020,31,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,57,17,41.6
+3/21/2020,38,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,70,24,37.4
+3/22/2020,36,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,66,12,38.6
+3/23/2020,28,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,65,30,39.6
+3/24/2020,35,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,59,16,41.6
+3/25/2020,31,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,76,26,52
+3/26/2020,33,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,52,8,33
+3/27/2020,41,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,42,16,33.2
+3/28/2020,35,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,61,15,41
+3/29/2020,35,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,77,15,41.6
+3/30/2020,43,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,69,24,43.2
+3/31/2020,31,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,62,20,41.6
+4/1/2020,39,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,72,10,32.8
+4/2/2020,39,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,60,14,38.4
+4/3/2020,30,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,84,27,45.6
+4/4/2020,34,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,57,11,44.2
+4/5/2020,45,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,61,23,41.4
+4/6/2020,39,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,49,18,39.2
+4/7/2020,42,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,84,19,34.2
+4/8/2020,38,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,60,19,37.6
+4/9/2020,41,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,65,25,39.8
+4/10/2020,34,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,64,16,40
+4/11/2020,42,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,71,22,39.4
+4/12/2020,42,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,61,7,48
+4/13/2020,35,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,77,16,46.8
+4/14/2020,41,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,65,28,38.8
+4/15/2020,43,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,81,29,39.2
+4/16/2020,39,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,100,31,40.8
+4/17/2020,41,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,97,18,36
+4/18/2020,41,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,72,13,47.2
+4/19/2020,46,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,47,29,39.4
+4/20/2020,36,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,71,24,37.6
+4/21/2020,37,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,55,20,44
+4/22/2020,37,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,77,0,42.4
+4/23/2020,30,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,53,24,39.2
+4/24/2020,34,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,83,23,41.4
+4/25/2020,44,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,66,21,34.8
+4/26/2020,35,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,61,19,41.6
+4/27/2020,32,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,76,29,39.8
+4/28/2020,40,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,64,19,43.8
+4/29/2020,37,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,61,24,37.6
+4/30/2020,40,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,84,22,36.6
+5/1/2020,36,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,97,19,43.8
+5/2/2020,38,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,90,26,50.6
+5/3/2020,45,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,64,13,48.6
+5/4/2020,39,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,90,20,54.2
+5/5/2020,44,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,61,22,37.8
+5/6/2020,27,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,76,16,31.2
+5/7/2020,42,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,44,23,35.8
+5/8/2020,32,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,63,11,38
+5/9/2020,28,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,72,11,43.6
+5/10/2020,42,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,53,15,33.2
+5/11/2020,31,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,51,16,35
+5/12/2020,40,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,93,15,39.6
+5/13/2020,43,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,87,13,35.8
+5/14/2020,39,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,54,14,38.6
+5/15/2020,55,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,72,19,39.4
+5/16/2020,42,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,64,15,39
+5/17/2020,40,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,80,17,51
+5/18/2020,36,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,90,23,51.4
+5/19/2020,36,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,64,28,41
+5/20/2020,34,Ozone,Essex,Newark Firehouse,34-013-0003,AirNow,54,28,37.8
+5/21/2020,43,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,77,24,35
+5/22/2020,48,PM2.5,Essex,Newark Firehouse,34-013-0003,AirNow,78,9,40.4
+2/8/2020,34,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,72,15,42.66666667
+2/9/2020,33,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,71,18,36
+2/10/2020,31,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,71,15,40.5
+2/11/2020,28,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,74,22,38
+2/12/2020,32,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,79,20,32
+2/13/2020,29,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,58,14,30
+2/14/2020,31,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,76,15,28
+2/15/2020,32,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,63,26,40.5
+2/16/2020,31,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,54,9,22.5
+2/17/2020,31,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,58,20,34
+2/18/2020,40,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,52,23,33
+2/19/2020,36,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,72,22,35.5
+2/20/2020,31,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,85,17,28.66666667
+2/21/2020,31,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,71,16,48
+2/22/2020,36,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,76,11,23
+2/23/2020,43,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,42,19,34.66666667
+2/24/2020,43,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,63,17,28.5
+2/25/2020,26,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,49,22,31.5
+2/26/2020,32,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,54,22,30.66666667
+2/27/2020,35,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,58,22,26.5
+2/28/2020,31,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,44,18,29
+2/29/2020,33,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,41,29,.
+3/1/2020,40,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,71,21,33.8
+3/2/2020,44,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,70,16,33.33333333
+3/3/2020,33,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,47,18,33
+3/4/2020,37,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,79,28,41.8
+3/5/2020,35,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,66,11,33.5
+3/6/2020,28,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,47,24,35.25
+3/7/2020,39,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,60,31,49.2
+3/8/2020,36,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,58,14,44.5
+3/9/2020,43,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,62,21,40.25
+3/10/2020,34,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,69,25,42.6
+3/11/2020,31,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,54,26,39.4
+3/12/2020,35,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,73,22,37.2
+3/13/2020,40,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,87,22,37.6
+3/14/2020,40,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,84,28,34.5
+3/15/2020,38,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,70,24,37.75
+3/16/2020,43,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,45,30,38.8
+3/17/2020,31,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,58,18,39.4
+3/18/2020,38,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,51,14,39.6
+3/19/2020,24,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,66,25,39.8
+3/20/2020,35,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,90,31,37.8
+3/21/2020,38,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,87,13,37
+3/22/2020,38,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,55,13,35.4
+3/23/2020,32,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,75,22,39.8
+3/24/2020,38,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,48,18,36.2
+3/25/2020,35,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,84,21,40.2
+3/26/2020,40,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,70,32,36.4
+3/27/2020,44,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,71,24,33.6
+3/28/2020,36,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,47,14,32.6
+3/29/2020,33,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,58,31,40.4
+3/30/2020,29,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,90,4,39.6
+3/31/2020,34,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,101,28,39.8
+4/1/2020,41,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,55,31,38.8
+4/2/2020,44,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,74,31,40
+4/3/2020,37,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,79,34,41
+4/4/2020,31,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,58,30,39.8
+4/5/2020,37,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,67,26,40.8
+4/6/2020,43,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,80,35,43.4
+4/7/2020,44,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,87,31,40.4
+4/8/2020,45,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,67,19,40
+4/9/2020,41,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,58,33,39.2
+4/11/2020,41,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,93,30,50
+4/12/2020,45,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,58,24,44.6
+4/13/2020,39,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,77,28,48.4
+4/14/2020,42,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,71,22,39.8
+4/15/2020,42,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,101,38,42
+4/16/2020,40,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,129,32,49
+4/17/2020,44,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,126,24,41.2
+4/18/2020,39,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,147,30,56.4
+4/19/2020,44,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,159,24,42
+4/20/2020,37,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,115,33,41.4
+4/21/2020,40,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,54,29,41.4
+4/22/2020,42,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,90,22,45.8
+4/23/2020,41,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,101,15,42.8
+4/24/2020,25,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,80,32,42.2
+4/25/2020,47,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,100,31,40.8
+4/26/2020,33,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,80,22,41.25
+4/27/2020,34,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,87,25,38.2
+4/28/2020,40,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,97,31,46.2
+4/29/2020,44,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,87,31,39.6
+5/1/2020,38,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,129,29,47
+5/2/2020,40,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,159,28,54.2
+5/3/2020,44,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,177,24,45.8
+5/4/2020,45,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,166,24,47.8
+5/5/2020,41,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,115,21,44.2
+5/6/2020,39,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,140,21,37.4
+5/7/2020,41,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,133,18,46.8
+5/8/2020,31,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,151,26,47.6
+5/9/2020,30,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,172,25,43.8
+5/10/2020,43,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,136,25,36.2
+5/11/2020,31,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,166,28,36.2
+5/12/2020,37,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,169,32,43.4
+5/13/2020,48,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,108,24,29
+5/14/2020,44,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,74,26,44.75
+5/15/2020,48,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,108,10,41.4
+5/16/2020,80,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,97,25,45.25
+5/17/2020,44,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,101,19,48.4
+5/18/2020,44,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,119,23,57.4
+5/19/2020,44,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,90,24,40.4
+5/20/2020,41,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,77,29,41.8
+5/21/2020,54,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,101,22,43.4
+5/22/2020,30,Ozone,Gloucester,Clarksboro,34-015-0002,AirNow,101,21,38
+1/1/2020,25,Ozone,Hudson,Bayonne,34-017-0006,AirNow,102,13,32.8
+1/2/2020,51,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,66,3,44.6
+1/3/2020,59,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,62,1,41.4
+1/4/2020,49,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,73,19,40.4
+1/5/2020,29,Ozone,Hudson,Bayonne,34-017-0006,AirNow,95,6,33.6
+1/6/2020,38,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,107,2,46.8
+1/7/2020,38,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,121,18,46.8
+1/8/2020,25,Ozone,Hudson,Bayonne,34-017-0006,AirNow,79,2,49.2
+1/9/2020,21,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,91,1,43
+1/10/2020,34,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,93,6,36.6
+1/11/2020,31,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,121,6,46.8
+1/12/2020,27,Ozone,Hudson,Bayonne,34-017-0006,AirNow,72,1,38.4
+1/13/2020,38,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,97,22,30.2
+1/14/2020,54,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,78,7,39
+1/15/2020,54,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,78,3,58
+1/16/2020,40,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,67,7,58.2
+1/17/2020,31,Ozone,Hudson,Bayonne,34-017-0006,AirNow,75,7,45.2
+1/18/2020,23,Ozone,Hudson,Bayonne,34-017-0006,AirNow,72,9,50.2
+1/19/2020,27,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,93,14,45
+1/20/2020,35,Ozone,Hudson,Bayonne,34-017-0006,AirNow,70,19,34.8
+1/21/2020,28,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,63,2,48.4
+1/22/2020,48,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,96,19,54.8
+1/23/2020,8,Ozone,Hudson,Bayonne,34-017-0006,AirNow,83,10,40.4
+1/24/2020,82,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,63,9,33.8
+1/25/2020,24,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,93,14,35.6
+1/26/2020,21,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,87,10,37.6
+1/27/2020,24,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,60,2,36.4
+1/28/2020,29,Ozone,Hudson,Bayonne,34-017-0006,AirNow,90,8,39.4
+1/29/2020,32,Ozone,Hudson,Bayonne,34-017-0006,AirNow,101,2,46.2
+1/30/2020,28,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,102,10,37.2
+1/31/2020,51,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,90,1,37.4
+2/1/2020,58,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,88,3,49.8
+2/2/2020,47,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,103,7,39.6
+2/3/2020,48,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,93,13,43
+2/4/2020,62,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,81,15,50.2
+2/5/2020,24,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,92,9,46.2
+2/6/2020,33,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,81,16,45.8
+2/7/2020,26,Ozone,Hudson,Bayonne,34-017-0006,AirNow,106,5,61
+2/8/2020,31,Ozone,Hudson,Bayonne,34-017-0006,AirNow,87,1,50.8
+2/9/2020,47,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,114,15,43.4
+2/10/2020,33,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,72,9,44.2
+2/11/2020,41,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,91,26,46.4
+2/12/2020,34,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,65,19,37.2
+2/13/2020,38,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,64,20,32.6
+2/14/2020,29,Ozone,Hudson,Bayonne,34-017-0006,AirNow,71,6,41.4
+2/15/2020,24,Ozone,Hudson,Bayonne,34-017-0006,AirNow,93,25,51.8
+2/16/2020,37,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,143,6,31.6
+2/17/2020,51,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,79,11,34.4
+2/18/2020,45,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,62,18,44.2
+2/19/2020,35,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,101,10,39.8
+2/20/2020,32,Ozone,Hudson,Bayonne,34-017-0006,AirNow,95,9,44.4
+2/21/2020,31,Ozone,Hudson,Bayonne,34-017-0006,AirNow,72,9,37.2
+2/22/2020,41,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,79,2,43.2
+2/23/2020,53,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,79,19,45.6
+2/24/2020,26,Ozone,Hudson,Bayonne,34-017-0006,AirNow,119,16,34.2
+2/25/2020,48,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,92,24,32.8
+2/26/2020,40,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,92,25,35
+2/27/2020,30,Ozone,Hudson,Bayonne,34-017-0006,AirNow,91,9,36.6
+2/28/2020,31,Ozone,Hudson,Bayonne,34-017-0006,AirNow,71,17,47.6
+2/29/2020,31,Ozone,Hudson,Bayonne,34-017-0006,AirNow,65,31,.
+3/1/2020,36,Ozone,Hudson,Bayonne,34-017-0006,AirNow,87,18,44.2
+3/2/2020,54,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,68,16,40.6
+3/3/2020,50,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,56,12,40.6
+3/4/2020,31,Ozone,Hudson,Bayonne,34-017-0006,AirNow,91,21,49
+3/5/2020,31,Ozone,Hudson,Bayonne,34-017-0006,AirNow,77,7,40.8
+3/6/2020,28,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,68,19,43.6
+3/7/2020,36,Ozone,Hudson,Bayonne,34-017-0006,AirNow,92,14,54.2
+3/8/2020,35,Ozone,Hudson,Bayonne,34-017-0006,AirNow,77,19,52.4
+3/9/2020,40,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,88,6,54.8
+3/10/2020,45,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,79,27,54.6
+3/11/2020,25,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,90,20,38.4
+3/12/2020,40,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,78,7,31.4
+3/13/2020,34,Ozone,Hudson,Bayonne,34-017-0006,AirNow,89,2,38.6
+3/14/2020,35,Ozone,Hudson,Bayonne,34-017-0006,AirNow,103,17,30.8
+3/15/2020,35,Ozone,Hudson,Bayonne,34-017-0006,AirNow,105,14,33.2
+3/16/2020,25,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,91,20,42.8
+3/17/2020,30,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,77,14,40.8
+3/18/2020,35,Ozone,Hudson,Bayonne,34-017-0006,AirNow,65,19,42.8
+3/19/2020,31,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,69,25,39.8
+3/20/2020,41,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,74,23,37.6
+3/21/2020,38,Ozone,Hudson,Bayonne,34-017-0006,AirNow,71,15,43.2
+3/22/2020,37,Ozone,Hudson,Bayonne,34-017-0006,AirNow,75,21,36.6
+3/23/2020,28,Ozone,Hudson,Bayonne,34-017-0006,AirNow,74,16,39.8
+3/24/2020,35,Ozone,Hudson,Bayonne,34-017-0006,AirNow,58,13,42.6
+3/25/2020,31,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,70,22,52.6
+3/26/2020,34,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,59,11,42
+3/27/2020,39,Ozone,Hudson,Bayonne,34-017-0006,AirNow,67,21,40.6
+3/28/2020,31,Ozone,Hudson,Bayonne,34-017-0006,AirNow,60,16,43.4
+3/29/2020,32,Ozone,Hudson,Bayonne,34-017-0006,AirNow,80,23,48.2
+3/30/2020,42,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,80,22,43
+3/31/2020,32,Ozone,Hudson,Bayonne,34-017-0006,AirNow,76,24,39.4
+4/1/2020,39,Ozone,Hudson,Bayonne,34-017-0006,AirNow,71,15,37.4
+4/2/2020,37,Ozone,Hudson,Bayonne,34-017-0006,AirNow,78,15,39.2
+4/3/2020,29,Ozone,Hudson,Bayonne,34-017-0006,AirNow,98,22,43.8
+4/4/2020,33,Ozone,Hudson,Bayonne,34-017-0006,AirNow,58,23,43.6
+4/5/2020,52,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,63,24,41.4
+4/6/2020,37,Ozone,Hudson,Bayonne,34-017-0006,AirNow,100,17,42.4
+4/7/2020,41,Ozone,Hudson,Bayonne,34-017-0006,AirNow,89,22,43
+4/8/2020,44,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,78,19,39.4
+4/9/2020,34,Ozone,Hudson,Bayonne,34-017-0006,AirNow,67,22,39.6
+4/10/2020,33,Ozone,Hudson,Bayonne,34-017-0006,AirNow,81,19,38.6
+4/11/2020,38,Ozone,Hudson,Bayonne,34-017-0006,AirNow,71,8,44.6
+4/12/2020,44,PM2.5,Hudson,Jersey City Firehouse,34-017-1003,AirNow,93,4,48.6
+4/13/2020,41,Ozone,Hudson,Bayonne,34-017-0006,AirNow,84,21,48.4
+4/14/2020,37,Ozone,Hudson,Bayonne,34-017-0006,AirNow,75,23,44
+4/15/2020,39,Ozone,Hudson,Bayonne,34-017-0006,AirNow,88,15,39
+4/16/2020,36,Ozone,Hudson,Bayonne,34-017-0006,AirNow,93,25,44
+4/17/2020,39,Ozone,Hudson,Bayonne,34-017-0006,AirNow,95,25,35.4
+4/18/2020,36,Ozone,Hudson,Bayonne,34-017-0006,AirNow,79,23,46.6
+4/19/2020,45,Ozone,Hudson,Bayonne,34-017-0006,AirNow,93,27,37.6
+4/20/2020,36,Ozone,Hudson,Bayonne,34-017-0006,AirNow,112,16,42.4
+4/21/2020,35,Ozone,Hudson,Bayonne,34-017-0006,AirNow,67,19,42.2
+4/22/2020,34,Ozone,Hudson,Bayonne,34-017-0006,AirNow,72,10,44
+4/23/2020,30,Ozone,Hudson,Bayonne,34-017-0006,AirNow,93,22,40.4
+4/24/2020,29,Ozone,Hudson,Bayonne,34-017-0006,AirNow,60,32,41.6
+4/25/2020,41,Ozone,Hudson,Bayonne,34-017-0006,AirNow,70,27,38.4
+4/26/2020,35,Ozone,Hudson,Bayonne,34-017-0006,AirNow,77,18,42.4
+4/27/2020,33,Ozone,Hudson,Bayonne,34-017-0006,AirNow,90,29,37.8
+4/28/2020,38,Ozone,Hudson,Bayonne,34-017-0006,AirNow,77,30,45.6
+4/29/2020,38,Ozone,Hudson,Bayonne,34-017-0006,AirNow,51,31,38.4
+4/30/2020,38,Ozone,Hudson,Bayonne,34-017-0006,AirNow,55,23,37
+5/1/2020,38,Ozone,Hudson,Bayonne,34-017-0006,AirNow,97,26,45
+5/2/2020,37,Ozone,Hudson,Bayonne,34-017-0006,AirNow,97,22,51.6
+5/3/2020,41,Ozone,Hudson,Bayonne,34-017-0006,AirNow,133,26,51
+5/4/2020,35,Ozone,Hudson,Bayonne,34-017-0006,AirNow,108,19,58.4
+5/5/2020,41,Ozone,Hudson,Bayonne,34-017-0006,AirNow,90,25,45.6
+5/6/2020,29,Ozone,Hudson,Bayonne,34-017-0006,AirNow,115,24,37.6
+5/7/2020,40,Ozone,Hudson,Bayonne,34-017-0006,AirNow,112,27,40.8
+5/8/2020,31,Ozone,Hudson,Bayonne,34-017-0006,AirNow,119,17,44.4
+5/9/2020,28,Ozone,Hudson,Bayonne,34-017-0006,AirNow,105,22,50.4
+5/10/2020,41,Ozone,Hudson,Bayonne,34-017-0006,AirNow,101,16,38
+5/11/2020,30,Ozone,Hudson,Bayonne,34-017-0006,AirNow,108,22,36.6
+5/12/2020,38,Ozone,Hudson,Bayonne,34-017-0006,AirNow,112,25,48.2
+5/13/2020,41,Ozone,Hudson,Bayonne,34-017-0006,AirNow,67,18,42.6
+5/14/2020,43,Ozone,Hudson,Bayonne,34-017-0006,AirNow,69,21,38
+5/15/2020,51,Ozone,Hudson,Bayonne,34-017-0006,AirNow,115,21,42.6
+5/16/2020,44,Ozone,Hudson,Bayonne,34-017-0006,AirNow,100,22,40.4
+5/17/2020,41,Ozone,Hudson,Bayonne,34-017-0006,AirNow,84,20,61.2
+5/18/2020,38,Ozone,Hudson,Bayonne,34-017-0006,AirNow,87,28,55.8
+5/19/2020,37,Ozone,Hudson,Bayonne,34-017-0006,AirNow,70,19,44
+5/20/2020,36,Ozone,Hudson,Bayonne,34-017-0006,AirNow,71,27,40.4
+5/21/2020,33,Ozone,Hudson,Bayonne,34-017-0006,AirNow,80,21,36
+5/22/2020,30,Ozone,Hudson,Bayonne,34-017-0006,AirNow,97,10,40.6
+1/1/2020,29,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,88,2,33.5
+1/2/2020,45,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,53,7,35.75
+1/3/2020,54,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,57,4,36
+1/4/2020,43,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,53,16,35.25
+1/5/2020,31,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,71,5,33.25
+1/6/2020,26,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,81,10,32.25
+1/7/2020,31,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,71,16,32.25
+1/8/2020,33,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,61,9,33
+1/9/2020,27,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,73,6,36
+1/10/2020,28,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,60,15,40.8
+1/11/2020,33,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,57,8,36.8
+1/12/2020,31,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,51,8,29
+1/13/2020,26,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,65,16,31
+1/14/2020,49,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,63,11,24.5
+1/15/2020,49,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,63,2,35
+1/16/2020,36,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,59,6,41
+1/17/2020,35,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,69,15,42.2
+1/18/2020,29,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,58,4,39.2
+1/19/2020,31,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,66,1,40.2
+1/20/2020,38,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,57,21,35.4
+1/21/2020,36,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,52,21,40
+1/22/2020,40,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,73,23,47.2
+1/23/2020,64,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,67,15,39
+1/24/2020,67,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,56,15,36
+1/25/2020,35,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,62,21,30.2
+1/26/2020,22,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,63,19,34.6
+1/27/2020,23,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,55,15,36.6
+1/28/2020,32,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,64,15,31
+1/29/2020,35,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,84,5,37.2
+1/30/2020,30,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,70,6,32.8
+1/31/2020,49,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,63,3,32.2
+2/1/2020,43,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,66,10,39.4
+2/2/2020,55,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,80,16,42.4
+2/3/2020,46,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,81,10,39.4
+2/4/2020,41,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,72,8,45.2
+2/5/2020,30,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,70,19,43.6
+2/6/2020,23,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,58,7,40.2
+2/7/2020,30,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,80,14,46.2
+2/8/2020,33,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,70,9,44.8
+2/9/2020,52,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,60,6,35.2
+2/10/2020,31,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,63,17,38.2
+2/11/2020,28,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,61,25,38.6
+2/12/2020,35,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,56,16,37.8
+2/13/2020,28,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,43,15,33.4
+2/14/2020,31,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,51,8,37.4
+2/15/2020,31,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,58,5,35
+2/16/2020,38,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,58,3,34.2
+2/17/2020,53,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,62,24,31.4
+2/18/2020,41,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,63,10,43
+2/19/2020,36,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,66,16,40.8
+2/20/2020,34,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,60,21,33.8
+2/21/2020,34,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,57,19,42.8
+2/22/2020,45,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,55,6,39.75
+2/23/2020,51,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,43,23,29.5
+2/24/2020,51,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,51,21,35.25
+2/25/2020,42,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,72,20,38.6
+2/26/2020,36,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,74,19,35
+2/27/2020,35,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,68,13,36.8
+2/28/2020,34,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,51,29,41.2
+2/29/2020,33,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,41,34,.
+3/1/2020,39,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,55,17,47
+3/2/2020,52,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,64,24,40.75
+3/3/2020,35,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,58,25,40.5
+3/4/2020,37,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,54,15,39.8
+3/5/2020,36,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,54,12,34.4
+3/6/2020,46,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,60,32,44.2
+3/7/2020,38,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,77,27,50.6
+3/8/2020,38,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,66,29,50.2
+3/9/2020,42,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,67,27,50.8
+3/10/2020,42,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,58,26,42.4
+3/11/2020,32,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,62,11,34.8
+3/12/2020,50,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,55,17,34.2
+3/13/2020,41,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,53,4,34.8
+3/14/2020,36,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,61,18,31.8
+3/15/2020,35,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,64,18,32.4
+3/16/2020,38,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,65,24,34.8
+3/17/2020,29,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,51,26,41.4
+3/18/2020,37,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,84,30,44.6
+3/19/2020,26,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,61,31,43.2
+3/20/2020,37,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,87,29,43.4
+3/21/2020,36,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,80,19,39.6
+3/22/2020,38,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,56,24,41.4
+3/23/2020,32,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,54,24,42.2
+3/24/2020,33,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,52,31,43.6
+3/25/2020,29,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,77,28,43.8
+3/26/2020,40,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,51,29,37
+3/27/2020,41,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,50,26,34
+3/28/2020,31,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,55,24,40.8
+3/29/2020,34,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,59,24,45.2
+3/30/2020,26,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,80,28,42.8
+3/31/2020,30,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,97,19,40.4
+4/1/2020,38,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,47,19,36
+4/2/2020,41,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,61,21,42.4
+4/3/2020,34,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,50,27,44.2
+4/4/2020,34,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,58,29,38.2
+4/5/2020,45,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,90,31,40.2
+4/6/2020,40,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,67,16,44
+4/7/2020,47,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,93,12,38.2
+4/8/2020,40,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,80,28,42
+4/9/2020,42,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,58,24,43
+4/10/2020,15,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,93,31,49
+4/11/2020,41,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,122,27,57.6
+4/12/2020,44,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,77,13,46.4
+4/13/2020,42,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,90,29,54.4
+4/14/2020,40,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,97,28,50.2
+4/15/2020,41,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,87,13,42
+4/16/2020,39,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,147,37,45.8
+4/17/2020,42,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,112,32,42.4
+4/18/2020,38,PM2.5,Hunterdon,Flemington,34-019-0001,AirNow,126,30,49.6
+4/19/2020,46,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,161,32,42.2
+4/20/2020,38,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,154,27,43.4
+4/21/2020,39,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,74,32,48.6
+4/22/2020,39,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,77,28,43.6
+4/23/2020,35,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,122,29,45.8
+4/24/2020,30,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,71,30,42.8
+4/25/2020,43,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,93,32,41.2
+4/26/2020,35,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,87,24,40.4
+4/27/2020,35,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,136,19,39.6
+4/28/2020,44,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,97,31,49
+4/29/2020,38,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,80,31,40.4
+4/30/2020,39,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,101,33,38.4
+5/1/2020,39,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,136,31,51
+5/2/2020,38,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,150,27,53.2
+5/3/2020,47,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,182,22,44.6
+5/4/2020,41,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,182,21,50
+5/5/2020,44,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,93,27,42.4
+5/6/2020,35,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,129,23,34
+5/7/2020,43,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,119,22,45.8
+5/8/2020,32,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,151,19,56.4
+5/9/2020,30,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,136,24,50
+5/10/2020,43,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,119,21,40.8
+5/11/2020,32,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,159,29,39.8
+5/12/2020,39,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,154,30,50.6
+5/13/2020,44,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,140,28,36
+5/14/2020,48,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,101,28,40
+5/15/2020,51,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,161,31,47
+5/16/2020,36,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,93,31,49.2
+5/17/2020,40,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,105,26,52.6
+5/18/2020,40,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,105,31,52.4
+5/19/2020,38,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,93,23,46
+5/20/2020,39,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,74,30,37.4
+5/21/2020,39,Ozone,Hunterdon,Flemington,34-019-0001,AirNow,105,19,38
+1/1/2020,31,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,120,6,37.4
+1/2/2020,50,PM2.5,Mercer,Rider University,34-021-0005,AirNow,68,6,37
+1/3/2020,49,PM2.5,Mercer,Rider University,34-021-0005,AirNow,59,4,41
+1/4/2020,34,PM2.5,Mercer,Rider University,34-021-0005,AirNow,65,23,32
+1/5/2020,31,Ozone,Mercer,Rider University,34-021-0005,AirNow,87,5,30.8
+1/6/2020,27,PM2.5,Mercer,Rider University,34-021-0005,AirNow,91,10,42.2
+1/7/2020,26,PM2.5,Mercer,Rider University,34-021-0005,AirNow,88,26,41.6
+1/8/2020,33,PM2.5,Mercer,Rider University,34-021-0005,AirNow,84,13,44
+1/9/2020,27,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,76,3,41.2
+1/10/2020,26,PM2.5,Mercer,Rider University,34-021-0005,AirNow,89,17,39.4
+1/11/2020,32,Ozone,Mercer,Rider University,34-021-0005,AirNow,87,18,42.2
+1/12/2020,31,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,53,11,34.4
+1/13/2020,15,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,89,23,33.6
+1/14/2020,28,PM2.5,Mercer,Rider University,34-021-0005,AirNow,75,7,37.2
+1/15/2020,26,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,85,5,52.6
+1/16/2020,32,PM2.5,Mercer,Rider University,34-021-0005,AirNow,72,22,54.8
+1/17/2020,35,Ozone,Mercer,Rider University,34-021-0005,AirNow,72,16,41.6
+1/18/2020,28,Ozone,Mercer,Rider University,34-021-0005,AirNow,73,2,53
+1/19/2020,33,PM2.5,Mercer,Rider University,34-021-0005,AirNow,90,13,43.8
+1/20/2020,38,Ozone,Mercer,Rider University,34-021-0005,AirNow,66,21,36.2
+1/21/2020,34,Ozone,Mercer,Rider University,34-021-0005,AirNow,60,20,42.8
+1/22/2020,32,PM2.5,Mercer,Rider University,34-021-0005,AirNow,77,28,48.2
+1/23/2020,65,PM2.5,Mercer,Rider University,34-021-0005,AirNow,72,16,39.4
+1/24/2020,59,PM2.5,Mercer,Rider University,34-021-0005,AirNow,63,13,36.6
+1/25/2020,32,Ozone,Mercer,Rider University,34-021-0005,AirNow,85,19,38.6
+1/26/2020,22,Ozone,Mercer,Rider University,34-021-0005,AirNow,68,20,39
+1/27/2020,23,Ozone,Mercer,Rider University,34-021-0005,AirNow,62,13,40.6
+1/28/2020,31,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,92,19,40.6
+1/29/2020,34,Ozone,Mercer,Rider University,34-021-0005,AirNow,102,6,48.4
+1/30/2020,26,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,91,17,40.2
+1/31/2020,35,PM2.5,Mercer,Rider University,34-021-0005,AirNow,73,3,37
+2/1/2020,26,Ozone,Mercer,Rider University,34-021-0005,AirNow,79,10,48.4
+2/2/2020,53,PM2.5,Mercer,Rider University,34-021-0005,AirNow,93,16,46.2
+2/3/2020,54,PM2.5,Mercer,Rider University,34-021-0005,AirNow,84,20,42
+2/4/2020,37,PM2.5,Mercer,Rider University,34-021-0005,AirNow,73,10,40.8
+2/5/2020,31,Ozone,Mercer,Rider University,34-021-0005,AirNow,86,22,44.6
+2/6/2020,24,Ozone,Mercer,Rider University,34-021-0005,AirNow,102,20,46.8
+2/7/2020,31,Ozone,Mercer,Rider University,34-021-0005,AirNow,80,17,52.4
+2/8/2020,34,Ozone,Mercer,Rider University,34-021-0005,AirNow,70,6,45.6
+2/9/2020,56,PM2.5,Mercer,Rider University,34-021-0005,AirNow,76,28,41
+2/10/2020,27,PM2.5,Mercer,Rider University,34-021-0005,AirNow,70,23,43.2
+2/11/2020,29,PM2.5,Mercer,Rider University,34-021-0005,AirNow,70,28,43.6
+2/12/2020,31,Ozone,Mercer,Rider University,34-021-0005,AirNow,68,23,38
+2/13/2020,27,Ozone,Mercer,Rider University,34-021-0005,AirNow,56,19,39.4
+2/14/2020,31,Ozone,Mercer,Rider University,34-021-0005,AirNow,65,9,39
+2/15/2020,31,Ozone,Mercer,Rider University,34-021-0005,AirNow,71,18,44.8
+2/16/2020,41,PM2.5,Mercer,Rider University,34-021-0005,AirNow,91,9,39.6
+2/17/2020,51,PM2.5,Mercer,Rider University,34-021-0005,AirNow,70,31,34.4
+2/18/2020,38,PM2.5,Mercer,Rider University,34-021-0005,AirNow,73,31,45.8
+2/19/2020,36,Ozone,Mercer,Rider University,34-021-0005,AirNow,91,19,41.4
+2/20/2020,34,Ozone,Mercer,Rider University,34-021-0005,AirNow,89,16,36.8
+2/21/2020,36,Ozone,Mercer,Rider University,34-021-0005,AirNow,84,13,42.6
+2/22/2020,44,PM2.5,Mercer,Rider University,34-021-0005,AirNow,99,12,42.8
+2/23/2020,54,PM2.5,Mercer,Rider University,34-021-0005,AirNow,54,26,37.6
+2/24/2020,58,PM2.5,Mercer,Rider University,34-021-0005,AirNow,80,25,36.2
+2/25/2020,39,PM2.5,Mercer,Rider University,34-021-0005,AirNow,88,18,40.4
+2/26/2020,36,Ozone,Mercer,Rider University,34-021-0005,AirNow,81,21,35.6
+2/27/2020,36,Ozone,Mercer,Rider University,34-021-0005,AirNow,85,19,37.6
+2/28/2020,35,Ozone,Mercer,Wash. Crossing,34-021-9991,AQS,53,26,39.8
+2/29/2020,34,Ozone,Mercer,Rider University,34-021-0005,AirNow,44,33,.
+3/1/2020,42,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,71,27,45.8
+3/2/2020,53,PM2.5,Mercer,Rider University,34-021-0005,AirNow,79,30,42
+3/3/2020,51,PM2.5,Mercer,Rider University,34-021-0005,AirNow,57,24,40
+3/4/2020,39,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,88,33,49
+3/5/2020,38,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,70,15,37.6
+3/6/2020,32,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,59,32,42.8
+3/7/2020,40,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,74,35,53
+3/8/2020,40,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,60,28,49.6
+3/9/2020,44,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,66,26,52
+3/10/2020,42,PM2.5,Mercer,Rider University,34-021-0005,AirNow,60,29,45.6
+3/11/2020,47,PM2.5,Mercer,Rider University,34-021-0005,AirNow,71,27,42.6
+3/12/2020,50,PM2.5,Mercer,Rider University,34-021-0005,AirNow,70,13,38.8
+3/13/2020,43,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,79,25,38
+3/14/2020,39,Ozone,Mercer,Rider University,34-021-0005,AirNow,88,28,36.8
+3/15/2020,38,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,79,19,38.2
+3/16/2020,41,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,102,28,40
+3/17/2020,30,PM2.5,Mercer,Rider University,34-021-0005,AirNow,52,29,43.8
+3/18/2020,46,PM2.5,Mercer,Rider University,34-021-0005,AirNow,71,35,45.2
+3/19/2020,32,PM2.5,Mercer,Rider University,34-021-0005,AirNow,67,34,43.2
+3/20/2020,72,PM2.5,Mercer,Rider University,34-021-0005,AirNow,87,33,44.8
+3/21/2020,39,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,93,22,43.4
+3/22/2020,40,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,58,34,41.4
+3/23/2020,34,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,68,33,43.8
+3/24/2020,37,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,59,32,45.6
+3/25/2020,34,Ozone,Mercer,Rider University,34-021-0005,AirNow,74,31,47
+3/26/2020,42,PM2.5,Mercer,Rider University,34-021-0005,AirNow,50,31,43
+3/27/2020,46,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,58,28,41.2
+3/28/2020,34,Ozone,Mercer,Rider University,34-021-0005,AirNow,132,28,39.6
+3/29/2020,32,Ozone,Mercer,Rider University,34-021-0005,AirNow,55,30,45.6
+3/30/2020,29,PM2.5,Mercer,Rider University,34-021-0005,AirNow,74,30,46.2
+3/31/2020,35,Ozone,Mercer,Rider University,34-021-0005,AirNow,101,32,41.2
+4/1/2020,40,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,47,31,41.4
+4/2/2020,43,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,66,19,43.2
+4/3/2020,36,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,79,33,43.6
+4/4/2020,41,PM2.5,Mercer,Rider University,34-021-0005,AirNow,54,33,43
+4/5/2020,39,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,80,31,42.4
+4/6/2020,64,PM2.5,Mercer,Rider University,34-021-0005,AirNow,67,24,48.2
+4/7/2020,47,Ozone,Mercer,Rider University,34-021-0005,AirNow,87,31,46.6
+4/8/2020,40,Ozone,Mercer,Rider University,34-021-0005,AirNow,71,26,43
+4/9/2020,44,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,58,34,42.4
+4/10/2020,38,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,84,32,48.6
+4/11/2020,42,Ozone,Mercer,Rider University,34-021-0005,AirNow,101,30,54.8
+4/12/2020,45,Ozone,Mercer,Rider University,34-021-0005,AirNow,74,24,46.8
+4/13/2020,42,Ozone,Mercer,Rider University,34-021-0005,AirNow,84,31,53.2
+4/14/2020,43,Ozone,Mercer,Rider University,34-021-0005,AirNow,90,28,50.4
+4/15/2020,44,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,87,31,43.6
+4/16/2020,41,Ozone,Mercer,Rider University,34-021-0005,AirNow,151,35,46.8
+4/17/2020,44,Ozone,Mercer,Rider University,34-021-0005,AirNow,122,32,43.8
+4/18/2020,40,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,126,29,59.4
+4/19/2020,48,Ozone,Mercer,Rider University,34-021-0005,AirNow,151,33,42.8
+4/20/2020,42,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,147,37,41.6
+4/21/2020,41,Ozone,Mercer,Rider University,34-021-0005,AirNow,64,33,45.2
+4/22/2020,42,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,74,27,45.8
+4/23/2020,38,Ozone,Mercer,Rider University,34-021-0005,AirNow,115,27,45.6
+4/24/2020,31,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,67,30,42.8
+4/25/2020,45,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,80,29,42
+4/26/2020,39,Ozone,Mercer,Rider University,34-021-0005,AirNow,77,23,42.4
+4/27/2020,36,Ozone,Mercer,Rider University,34-021-0005,AirNow,101,36,41.6
+4/28/2020,44,Ozone,Mercer,Rider University,34-021-0005,AirNow,100,32,50.4
+4/29/2020,43,Ozone,Mercer,Rider University,34-021-0005,AirNow,80,34,42
+4/30/2020,40,Ozone,Mercer,Rider University,34-021-0005,AirNow,105,35,40
+5/1/2020,41,Ozone,Mercer,Rider University,34-021-0005,AirNow,140,31,48
+5/2/2020,40,Ozone,Mercer,Rider University,34-021-0005,AirNow,159,30,54
+5/3/2020,49,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,195,22,48.4
+5/4/2020,44,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,187,26,55.4
+5/5/2020,43,Ozone,Mercer,Rider University,34-021-0005,AirNow,108,28,46.6
+5/6/2020,37,Ozone,Mercer,Rider University,34-021-0005,AirNow,161,25,37
+5/7/2020,45,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,129,25,50.4
+5/8/2020,35,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,185,25,60
+5/9/2020,31,Ozone,Mercer,Rider University,34-021-0005,AirNow,154,31,48.4
+5/10/2020,44,Ozone,Mercer,Rider University,34-021-0005,AirNow,129,18,42.2
+5/11/2020,33,Ozone,Mercer,Rider University,34-021-0005,AirNow,161,31,43.4
+5/12/2020,40,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,161,34,53.6
+5/13/2020,48,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,115,30,36.6
+5/14/2020,49,Ozone,Mercer,Rider University,34-021-0005,AirNow,90,30,41
+5/15/2020,67,Ozone,Mercer,Rider University,34-021-0005,AirNow,147,31,55
+5/16/2020,40,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,100,29,54.2
+5/17/2020,41,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,122,22,58.2
+5/18/2020,42,Ozone,Mercer,Rider University,34-021-0005,AirNow,133,30,63.8
+5/19/2020,41,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,100,22,46.4
+5/20/2020,39,Ozone,Mercer,Wash. Crossing,34-021-9991,AirNow,97,20,41.6
+5/21/2020,38,Ozone,Mercer,Rider University,34-021-0005,AirNow,112,23,41.6
+5/22/2020,30,Ozone,Mercer,Rider University,34-021-0005,AirNow,90,18,40
+1/1/2020,28,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,81,19,31.8
+1/2/2020,44,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,63,8,34.8
+1/3/2020,47,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,54,5,37.6
+1/4/2020,41,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,59,21,31.4
+1/5/2020,31,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,94,8,30.6
+1/6/2020,30,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,75,8,39.6
+1/7/2020,29,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,86,20,38.8
+1/8/2020,37,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,60,10,44.2
+1/9/2020,25,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,66,3,39.8
+1/10/2020,28,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,64,1,37.4
+1/11/2020,34,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,84,15,36
+1/12/2020,32,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,52,7,32.4
+1/13/2020,33,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,89,26,31.2
+1/14/2020,33,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,72,6,29
+1/15/2020,44,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,80,13,55.2
+1/16/2020,36,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,77,14,48.8
+1/17/2020,33,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,71,25,41.6
+1/18/2020,26,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,62,22,44
+1/19/2020,33,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,64,10,37.2
+1/20/2020,36,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,64,19,34.8
+1/21/2020,32,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,53,19,41.2
+1/22/2020,32,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,68,19,42.2
+1/23/2020,63,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,59,14,31.2
+1/24/2020,73,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,59,8,30.6
+1/25/2020,31,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,89,20,34.8
+1/26/2020,21,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,64,11,37.4
+1/27/2020,20,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,45,8,35
+1/28/2020,31,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,82,19,36.4
+1/29/2020,33,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,76,2,40.4
+1/30/2020,28,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,99,11,33.6
+1/31/2020,38,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,61,1,36.4
+2/1/2020,40,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,73,6,38.6
+2/2/2020,53,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,89,13,40.6
+2/4/2020,53,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,72,6,34.2
+2/5/2020,26,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,68,18,42.2
+2/6/2020,37,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,79,21,37.8
+2/7/2020,29,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,81,10,50
+2/8/2020,33,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,76,6,46.8
+2/9/2020,52,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,90,23,40.8
+2/10/2020,33,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,68,17,41.6
+2/11/2020,41,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,62,20,40.8
+2/12/2020,32,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,62,16,34.6
+2/13/2020,29,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,49,20,32.8
+2/14/2020,31,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,65,10,35.6
+2/15/2020,29,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,68,24,46.8
+2/16/2020,30,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,81,4,34.4
+2/17/2020,52,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,64,25,32
+2/18/2020,53,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,55,27,37.8
+2/20/2020,33,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,84,15,37.8
+2/21/2020,34,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,63,10,40.4
+2/22/2020,39,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,72,13,34.8
+2/23/2020,51,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,58,20,37.2
+2/24/2020,59,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,75,4,34.6
+2/25/2020,46,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,72,17,33.6
+2/26/2020,46,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,71,8,33.4
+2/29/2020,33,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,41,34,.
+3/1/2020,39,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,64,25,48.8
+3/2/2020,52,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,67,25,38.8
+3/3/2020,48,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,56,25,39.4
+3/4/2020,37,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,90,24,46.2
+3/5/2020,36,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,60,9,36.2
+3/6/2020,28,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,58,23,42.4
+3/7/2020,37,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,74,19,52.6
+3/8/2020,39,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,64,20,49.8
+3/9/2020,43,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,72,23,52
+3/10/2020,40,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,61,28,47.6
+3/11/2020,28,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,77,28,40.8
+3/12/2020,37,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,68,12,37.4
+3/13/2020,40,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,79,18,37.2
+3/14/2020,37,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,78,28,34.8
+3/15/2020,36,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,78,21,37
+3/16/2020,38,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,63,29,38.4
+3/17/2020,31,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,141,21,40.2
+3/18/2020,37,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,59,28,44
+3/19/2020,35,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,64,30,42.2
+3/20/2020,38,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,87,25,34
+3/21/2020,37,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,68,19,39.2
+3/22/2020,39,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,60,33,40.8
+3/23/2020,34,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,68,27,41.8
+3/24/2020,35,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,53,28,43.8
+3/25/2020,31,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,71,25,46.4
+3/26/2020,39,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,48,27,35
+3/27/2020,43,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,58,28,35
+3/28/2020,37,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,67,16,42.8
+3/29/2020,31,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,83,21,44.8
+3/30/2020,35,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,64,19,47
+3/31/2020,35,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,97,28,42.8
+4/1/2020,39,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,62,22,40.2
+4/2/2020,39,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,64,15,42
+4/3/2020,31,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,124,33,41.2
+4/4/2020,34,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,58,30,42.4
+4/5/2020,43,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,87,29,39.2
+4/6/2020,39,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,49,25,43.6
+4/7/2020,47,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,97,21,39
+4/8/2020,44,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,80,14,41
+4/9/2020,41,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,55,32,42.8
+4/10/2020,36,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,80,30,47
+4/11/2020,41,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,101,7,54.6
+4/12/2020,46,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,61,19,45.6
+4/13/2020,43,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,84,19,53.2
+4/14/2020,40,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,77,26,40.4
+4/15/2020,41,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,90,31,42.4
+4/16/2020,39,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,143,35,45.4
+4/17/2020,43,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,119,31,42.75
+4/18/2020,43,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,122,28,49.25
+4/19/2020,48,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,122,20,41
+4/20/2020,36,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,143,17,42.2
+4/21/2020,38,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,71,12,44
+4/22/2020,38,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,77,25,49.25
+4/23/2020,34,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,119,26,45.75
+4/24/2020,29,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,71,10,35.2
+4/25/2020,44,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,67,24,34.75
+4/26/2020,39,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,71,21,43.75
+4/27/2020,35,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,71,10,36
+4/28/2020,43,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,97,32,46.25
+4/29/2020,41,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,71,31,38.75
+4/30/2020,41,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,101,13,33.8
+5/1/2020,43,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,143,28,47.75
+5/2/2020,39,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,147,30,56
+5/3/2020,47,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,201,24,42.6
+5/4/2020,38,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,190,23,46.5
+5/5/2020,43,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,87,24,33.25
+5/6/2020,27,PM2.5,Middlesex,Rutgers University,34-023-0011,AirNow,140,25,33.8
+5/7/2020,43,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,129,26,39.25
+5/8/2020,33,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,172,8,40.5
+5/9/2020,30,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,140,27,47.2
+5/10/2020,44,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,129,20,40
+5/11/2020,34,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,179,23,40.75
+5/12/2020,37,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,116,31,48.2
+5/13/2020,44,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,108,24,45.75
+5/14/2020,45,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,84,27,37
+5/15/2020,64,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,150,28,39.2
+5/16/2020,41,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,101,29,43.5
+5/17/2020,40,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,133,27,64
+5/18/2020,41,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,115,28,58.6
+5/19/2020,38,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,77,19,44.75
+5/20/2020,37,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,93,31,42
+5/21/2020,35,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,87,11,37.4
+5/22/2020,32,Ozone,Middlesex,Rutgers University,34-023-0011,AirNow,67,7,37
+2/13/2020,24,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,.,.,.
+2/14/2020,29,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,18,18,18
+2/15/2020,33,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,35,19,19
+2/16/2020,31,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,31,17,17
+2/17/2020,26,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,31,19,19
+2/18/2020,35,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,41,28,28
+2/19/2020,34,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,39,26,26
+2/20/2020,31,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,38,22,22
+2/21/2020,29,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,42,25,25
+2/22/2020,34,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,33,19,19
+2/23/2020,39,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,31,19,19
+2/25/2020,26,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,34,20,20
+2/26/2020,38,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,34,19,19
+2/27/2020,35,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,36,21,21
+2/28/2020,31,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,34,21,21
+2/29/2020,33,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,40,36,.
+3/1/2020,38,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,41,19,30
+3/2/2020,41,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,38,24,28.33333333
+3/3/2020,32,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,42,21,30.66666667
+3/4/2020,36,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,45,21,33
+3/5/2020,36,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,41,20,29
+3/6/2020,31,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,42,30,37
+3/7/2020,35,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,49,36,37
+3/8/2020,37,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,45,28,36.33333333
+3/9/2020,43,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,45,25,37
+3/10/2020,36,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,49,30,41.4
+3/11/2020,30,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,46,31,38.4
+3/12/2020,33,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,44,30,36.2
+3/13/2020,41,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,47,30,38.8
+3/14/2020,37,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,47,29,36.4
+3/15/2020,35,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,44,25,32
+3/16/2020,39,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,41,26,35.6
+3/17/2020,35,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,42,24,36.6
+3/18/2020,42,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,42,29,36.8
+3/19/2020,33,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,44,24,33.25
+3/20/2020,35,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,67,25,37
+3/21/2020,36,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,71,22,34.25
+3/22/2020,39,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,44,24,37
+3/23/2020,36,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,47,26,36.6
+3/24/2020,31,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,44,22,35
+3/25/2020,37,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,47,20,32.8
+3/26/2020,37,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,58,31,34.4
+3/27/2020,44,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,54,27,33.6
+3/28/2020,38,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,46,25,33
+3/29/2020,38,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,51,25,36
+3/30/2020,33,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,50,22,37.2
+3/31/2020,39,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,84,23,37.4
+4/1/2020,38,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,50,28,34.8
+4/2/2020,39,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,49,28,38.4
+4/3/2020,30,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,47,19,40.4
+4/4/2020,36,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,45,31,35.6
+4/5/2020,30,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,48,27,36.8
+4/6/2020,37,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,49,31,37.8
+4/7/2020,43,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,101,29,37
+4/8/2020,44,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,58,26,38.6
+4/9/2020,41,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,51,31,37.4
+4/10/2020,36,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,58,31,36.6
+4/11/2020,41,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,77,30,41
+4/12/2020,44,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,58,33,39.6
+4/13/2020,41,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,51,29,41.6
+4/14/2020,42,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,67,24,35.8
+4/15/2020,42,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,80,25,39.4
+4/16/2020,40,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,150,25,43.4
+4/17/2020,44,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,93,28,37.6
+4/18/2020,37,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,101,27,45.6
+4/19/2020,46,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,112,26,38.8
+4/20/2020,33,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,143,32,38.6
+4/21/2020,38,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,51,31,39.6
+4/22/2020,39,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,71,22,36
+4/23/2020,40,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,87,23,37.2
+4/24/2020,31,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,90,24,40.2
+4/25/2020,44,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,64,32,38
+4/26/2020,39,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,126,22,35.4
+4/27/2020,31,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,64,26,35.6
+4/28/2020,38,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,108,26,40.2
+4/29/2020,42,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,61,31,39.6
+4/30/2020,45,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,64,33,35.6
+5/1/2020,47,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,100,25,44.8
+5/2/2020,38,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,112,28,50.4
+5/3/2020,46,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,115,28,39.2
+5/4/2020,43,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,136,20,43.6
+5/5/2020,43,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,97,23,45.4
+5/6/2020,38,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,140,23,35.4
+5/7/2020,44,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,108,21,36
+5/8/2020,33,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,105,31,42.2
+5/9/2020,29,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,161,21,37
+5/10/2020,44,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,80,19,31
+5/11/2020,35,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,126,20,35.4
+5/12/2020,38,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,129,27,49.8
+5/13/2020,39,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,64,27,33.4
+5/14/2020,43,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,49,24,35.6
+5/15/2020,47,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,129,30,39.6
+5/16/2020,44,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,101,26,42
+5/17/2020,37,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,87,21,50
+5/18/2020,39,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,51,30,39.2
+5/19/2020,36,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,49,26,36.6
+5/20/2020,33,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,80,27,35.6
+5/21/2020,31,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,87,25,33.8
+5/22/2020,30,Ozone,Monmouth,Monmouth University,34-025-0005,AirNow,74,21,38
+1/1/2020,30,Ozone,Morris,Chester,34-027-3001,AirNow,89,5,31.8
+1/2/2020,27,Ozone,Morris,Chester,34-027-3001,AirNow,52,11,27
+1/3/2020,19,Ozone,Morris,Chester,34-027-3001,AirNow,38,6,27.8
+1/4/2020,26,Ozone,Morris,Chester,34-027-3001,AirNow,108,18,26
+1/5/2020,33,Ozone,Morris,Chester,34-027-3001,AirNow,84,7,30.4
+1/6/2020,28,Ozone,Morris,Chester,34-027-3001,AirNow,53,9,30.2
+1/7/2020,24,Ozone,Morris,Chester,34-027-3001,AirNow,72,20,36
+1/8/2020,33,Ozone,Morris,Chester,34-027-3001,AirNow,60,18,26
+1/9/2020,29,Ozone,Morris,Chester,34-027-3001,AirNow,43,12,29.2
+1/10/2020,27,Ozone,Morris,Chester,34-027-3001,AirNow,63,13,30.2
+1/11/2020,33,Ozone,Morris,Chester,34-027-3001,AirNow,75,17,30.8
+1/12/2020,31,Ozone,Morris,Chester,34-027-3001,AirNow,53,11,29.4
+1/13/2020,20,Ozone,Morris,Chester,34-027-3001,AirNow,81,13,33.4
+1/14/2020,10,Ozone,Morris,Chester,34-027-3001,AirNow,64,5,29.6
+1/15/2020,26,Ozone,Morris,Chester,34-027-3001,AirNow,61,7,36.8
+1/16/2020,31,Ozone,Morris,Chester,34-027-3001,AirNow,61,9,29.2
+1/17/2020,37,Ozone,Morris,Chester,34-027-3001,AirNow,64,14,27
+1/18/2020,32,Ozone,Morris,Chester,34-027-3001,AirNow,50,17,32
+1/19/2020,34,Ozone,Morris,Chester,34-027-3001,AirNow,65,18,28
+1/20/2020,39,Ozone,Morris,Chester,34-027-3001,AirNow,54,16,29.2
+1/21/2020,38,Ozone,Morris,Chester,34-027-3001,AirNow,40,12,29.8
+1/22/2020,31,Ozone,Morris,Chester,34-027-3001,AirNow,70,14,27.8
+1/23/2020,29,Ozone,Morris,Chester,34-027-3001,AirNow,53,15,29.8
+1/24/2020,20,Ozone,Morris,Chester,34-027-3001,AirNow,55,8,37
+1/25/2020,30,Ozone,Morris,Chester,34-027-3001,AirNow,70,19,34
+1/26/2020,23,Ozone,Morris,Chester,34-027-3001,AirNow,59,0,25
+1/27/2020,25,Ozone,Morris,Chester,34-027-3001,AirNow,46,21,29.6
+1/28/2020,33,Ozone,Morris,Chester,34-027-3001,AirNow,91,19,30.8
+1/29/2020,37,Ozone,Morris,Chester,34-027-3001,AirNow,66,14,28.4
+1/30/2020,31,Ozone,Morris,Chester,34-027-3001,AirNow,71,14,30.6
+1/31/2020,23,Ozone,Morris,Chester,34-027-3001,AirNow,112,16,35.4
+2/1/2020,22,Ozone,Morris,Chester,34-027-3001,AirNow,79,17,33.6
+2/2/2020,25,Ozone,Morris,Chester,34-027-3001,AirNow,87,15,40.6
+2/3/2020,34,Ozone,Morris,Chester,34-027-3001,AirNow,68,27,34
+2/4/2020,30,Ozone,Morris,Chester,34-027-3001,AirNow,55,9,30.6
+2/5/2020,32,Ozone,Morris,Chester,34-027-3001,AirNow,66,11,34.4
+2/6/2020,21,Ozone,Morris,Chester,34-027-3001,AirNow,115,21,32.2
+2/7/2020,33,Ozone,Morris,Chester,34-027-3001,AirNow,84,13,25.2
+2/8/2020,35,Ozone,Morris,Chester,34-027-3001,AirNow,71,15,41
+2/9/2020,24,Ozone,Morris,Chester,34-027-3001,AirNow,93,29,33.4
+2/10/2020,27,Ozone,Morris,Chester,34-027-3001,AirNow,61,22,34.2
+2/11/2020,26,Ozone,Morris,Chester,34-027-3001,AirNow,48,18,31.6
+2/12/2020,32,Ozone,Morris,Chester,34-027-3001,AirNow,55,25,34.6
+2/13/2020,32,Ozone,Morris,Chester,34-027-3001,AirNow,58,25,34.8
+2/14/2020,33,Ozone,Morris,Chester,34-027-3001,AirNow,55,10,35.8
+2/15/2020,33,Ozone,Morris,Chester,34-027-3001,AirNow,61,13,33
+2/16/2020,29,Ozone,Morris,Chester,34-027-3001,AirNow,77,13,35
+2/17/2020,38,Ozone,Morris,Chester,34-027-3001,AirNow,56,27,34.8
+2/18/2020,31,Ozone,Morris,Chester,34-027-3001,AirNow,56,31,39.6
+2/19/2020,39,Ozone,Morris,Chester,34-027-3001,AirNow,94,24,36.6
+2/20/2020,37,Ozone,Morris,Chester,34-027-3001,AirNow,67,23,34.4
+2/21/2020,37,Ozone,Morris,Chester,34-027-3001,AirNow,56,23,34.8
+2/22/2020,37,Ozone,Morris,Chester,34-027-3001,AirNow,66,20,35.4
+2/23/2020,44,Ozone,Morris,Chester,34-027-3001,AirNow,45,27,32.6
+2/24/2020,41,Ozone,Morris,Chester,34-027-3001,AirNow,69,20,33.8
+2/25/2020,31,Ozone,Morris,Chester,34-027-3001,AirNow,44,25,35
+2/26/2020,33,Ozone,Morris,Chester,34-027-3001,AirNow,50,19,36.8
+2/27/2020,36,Ozone,Morris,Chester,34-027-3001,AirNow,117,26,37.2
+2/28/2020,37,Ozone,Morris,Chester,34-027-3001,AirNow,67,25,40.4
+3/1/2020,41,Ozone,Morris,Chester,34-027-3001,AirNow,71,23,38.2
+3/2/2020,44,Ozone,Morris,Chester,34-027-3001,AirNow,58,31,39.6
+3/3/2020,34,Ozone,Morris,Chester,34-027-3001,AirNow,45,32,38.2
+3/4/2020,39,Ozone,Morris,Chester,34-027-3001,AirNow,67,30,40.2
+3/6/2020,33,Ozone,Morris,Chester,34-027-3001,AirNow,52,33,37
+3/7/2020,40,Ozone,Morris,Chester,34-027-3001,AirNow,61,32,42.6
+3/8/2020,40,Ozone,Morris,Chester,34-027-3001,AirNow,53,30,43.6
+3/9/2020,48,Ozone,Morris,Chester,34-027-3001,AirNow,64,31,50.2
+3/10/2020,38,Ozone,Morris,Chester,34-027-3001,AirNow,56,27,42.4
+3/11/2020,35,Ozone,Morris,Chester,34-027-3001,AirNow,83,28,43
+3/12/2020,29,Ozone,Morris,Chester,34-027-3001,AirNow,66,20,39.2
+3/13/2020,42,Ozone,Morris,Chester,34-027-3001,AirNow,75,15,40.4
+3/14/2020,38,Ozone,Morris,Chester,34-027-3001,AirNow,71,32,36.4
+3/15/2020,39,Ozone,Morris,Chester,34-027-3001,AirNow,85,27,37.2
+3/16/2020,40,Ozone,Morris,Chester,34-027-3001,AirNow,54,26,39
+3/17/2020,33,Ozone,Morris,Chester,34-027-3001,AirNow,61,31,42.6
+3/18/2020,36,Ozone,Morris,Chester,34-027-3001,AirNow,97,33,41.6
+3/19/2020,33,Ozone,Morris,Chester,34-027-3001,AirNow,56,32,43.8
+3/20/2020,37,Ozone,Morris,Chester,34-027-3001,AirNow,84,27,43
+3/21/2020,38,Ozone,Morris,Chester,34-027-3001,AirNow,80,23,41
+3/22/2020,39,Ozone,Morris,Chester,34-027-3001,AirNow,61,34,41.4
+3/23/2020,32,Ozone,Morris,Chester,34-027-3001,AirNow,69,31,43.8
+3/24/2020,36,Ozone,Morris,Chester,34-027-3001,AirNow,51,34,43.4
+3/25/2020,32,Ozone,Morris,Chester,34-027-3001,AirNow,74,35,39
+3/26/2020,42,Ozone,Morris,Chester,34-027-3001,AirNow,47,25,36.8
+3/27/2020,44,Ozone,Morris,Chester,34-027-3001,AirNow,67,27,34.4
+3/28/2020,39,Ozone,Morris,Chester,34-027-3001,AirNow,64,23,34.4
+3/29/2020,39,Ozone,Morris,Chester,34-027-3001,AirNow,84,22,37.2
+3/30/2020,31,Ozone,Morris,Chester,34-027-3001,AirNow,93,29,44.2
+3/31/2020,30,Ozone,Morris,Chester,34-027-3001,AirNow,97,27,41.6
+4/1/2020,41,Ozone,Morris,Chester,34-027-3001,AirNow,64,30,40.75
+4/2/2020,41,Ozone,Morris,Chester,34-027-3001,AirNow,84,19,45
+4/3/2020,34,Ozone,Morris,Chester,34-027-3001,AirNow,72,30,38.75
+4/4/2020,35,Ozone,Morris,Chester,34-027-3001,AirNow,74,27,37.25
+4/5/2020,41,Ozone,Morris,Chester,34-027-3001,AirNow,90,31,41.8
+4/6/2020,43,Ozone,Morris,Chester,34-027-3001,AirNow,71,25,44
+4/7/2020,50,Ozone,Morris,Chester,34-027-3001,AirNow,90,33,41.6
+4/8/2020,42,Ozone,Morris,Chester,34-027-3001,AirNow,103,27,40.8
+4/9/2020,43,Ozone,Morris,Chester,34-027-3001,AirNow,71,33,41.6
+4/10/2020,37,Ozone,Morris,Chester,34-027-3001,AirNow,97,31,48.8
+4/11/2020,43,Ozone,Morris,Chester,34-027-3001,AirNow,115,28,55.2
+4/12/2020,47,Ozone,Morris,Chester,34-027-3001,AirNow,97,20,44.4
+4/13/2020,44,Ozone,Morris,Chester,34-027-3001,AirNow,97,35,55.6
+4/14/2020,43,Ozone,Morris,Chester,34-027-3001,AirNow,97,28,51.8
+4/15/2020,43,Ozone,Morris,Chester,34-027-3001,AirNow,97,10,43.4
+4/16/2020,39,Ozone,Morris,Chester,34-027-3001,AirNow,143,37,44.6
+4/17/2020,42,Ozone,Morris,Chester,34-027-3001,AirNow,115,34,41.2
+4/18/2020,39,Ozone,Morris,Chester,34-027-3001,AirNow,151,34,49.4
+4/19/2020,47,Ozone,Morris,Chester,34-027-3001,AirNow,147,25,41.8
+4/20/2020,43,Ozone,Morris,Chester,34-027-3001,AirNow,136,33,39.8
+4/21/2020,38,Ozone,Morris,Chester,34-027-3001,AirNow,67,31,45.2
+4/22/2020,39,Ozone,Morris,Chester,34-027-3001,AirNow,74,26,44.6
+4/23/2020,37,Ozone,Morris,Chester,34-027-3001,AirNow,112,25,42
+4/24/2020,33,Ozone,Morris,Chester,34-027-3001,AirNow,67,31,41.8
+4/25/2020,43,Ozone,Morris,Chester,34-027-3001,AirNow,87,31,39.8
+4/26/2020,37,Ozone,Morris,Chester,34-027-3001,AirNow,80,24,38.8
+4/27/2020,36,Ozone,Morris,Chester,34-027-3001,AirNow,143,28,36
+4/28/2020,44,Ozone,Morris,Chester,34-027-3001,AirNow,105,29,47.2
+4/29/2020,37,Ozone,Morris,Chester,34-027-3001,AirNow,74,33,40.6
+4/30/2020,39,Ozone,Morris,Chester,34-027-3001,AirNow,100,32,38.8
+5/1/2020,39,Ozone,Morris,Chester,34-027-3001,AirNow,143,30,46
+5/2/2020,31,Ozone,Morris,Chester,34-027-3001,AirNow,150,24,52.2
+5/3/2020,39,Ozone,Morris,Chester,34-027-3001,AirNow,190,19,43
+5/6/2020,34,Ozone,Morris,Chester,34-027-3001,AirNow,133,27,35.8
+5/7/2020,45,Ozone,Morris,Chester,34-027-3001,AirNow,119,25,43.6
+5/8/2020,37,Ozone,Morris,Chester,34-027-3001,AirNow,159,31,51.8
+5/9/2020,31,Ozone,Morris,Chester,34-027-3001,AirNow,140,24,49.4
+5/10/2020,46,Ozone,Morris,Chester,34-027-3001,AirNow,119,27,37.6
+5/11/2020,34,Ozone,Morris,Chester,34-027-3001,AirNow,164,32,40.6
+5/12/2020,41,Ozone,Morris,Chester,34-027-3001,AirNow,97,29,48
+5/13/2020,45,Ozone,Morris,Chester,34-027-3001,AirNow,108,28,33.8
+5/14/2020,51,Ozone,Morris,Chester,34-027-3001,AirNow,77,27,39.8
+5/15/2020,64,Ozone,Morris,Chester,34-027-3001,AirNow,161,29,45.2
+5/16/2020,38,Ozone,Morris,Chester,34-027-3001,AirNow,101,25,41
+5/17/2020,43,Ozone,Morris,Chester,34-027-3001,AirNow,105,22,51.8
+5/18/2020,43,Ozone,Morris,Chester,34-027-3001,AirNow,100,25,57
+5/19/2020,42,Ozone,Morris,Chester,34-027-3001,AirNow,67,27,44.6
+5/20/2020,41,Ozone,Morris,Chester,34-027-3001,AirNow,90,23,38.2
+5/21/2020,41,Ozone,Morris,Chester,34-027-3001,AirNow,112,21,39.2
+5/22/2020,37,Ozone,Morris,Chester,34-027-3001,AirNow,100,20,38.4
+2/13/2020,28,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,52,15,22.6
+2/14/2020,31,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,66,15,27.8
+2/15/2020,32,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,112,13,28
+2/16/2020,32,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,62,15,22.4
+2/17/2020,32,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,59,12,33.6
+2/18/2020,35,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,71,19,41.4
+2/19/2020,37,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,64,12,27.8
+2/20/2020,34,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,78,11,28.6
+2/21/2020,36,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,65,15,32.4
+2/22/2020,35,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,64,12,27
+2/23/2020,44,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,54,7,28.2
+2/24/2020,44,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,61,10,27.8
+2/25/2020,32,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,72,15,24.5
+2/26/2020,38,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,70,11,26.2
+2/27/2020,36,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,74,11,25
+2/29/2020,34,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,52,30,.
+3/1/2020,40,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,66,28,39.4
+3/2/2020,45,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,88,12,45.2
+3/3/2020,36,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,54,12,33
+3/4/2020,37,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,67,19,41
+3/5/2020,35,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,58,23,34.4
+3/6/2020,32,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,51,12,40.6
+3/7/2020,38,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,69,10,46.8
+3/8/2020,38,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,59,24,49.6
+3/9/2020,44,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,71,18,52.2
+3/10/2020,36,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,74,26,50.2
+3/11/2020,35,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,59,26,38.6
+3/12/2020,32,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,62,26,41.2
+3/13/2020,41,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,68,22,40.8
+3/14/2020,39,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,76,16,43.8
+3/15/2020,36,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,64,7,38
+3/16/2020,40,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,55,13,38
+3/17/2020,33,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,45,20,40.8
+3/18/2020,38,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,50,19,42.4
+3/19/2020,32,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,64,31,41.8
+3/20/2020,37,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,97,32,43.2
+3/21/2020,37,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,97,20,42.4
+3/22/2020,38,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,53,23,42.8
+3/23/2020,35,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,57,24,42.2
+3/24/2020,34,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,58,13,39.4
+3/25/2020,36,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,84,13,32.2
+3/26/2020,39,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,80,27,38.4
+3/27/2020,43,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,48,15,35.2
+3/28/2020,39,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,50,22,35.8
+3/29/2020,39,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,64,16,43.4
+3/30/2020,31,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,93,10,43.2
+3/31/2020,37,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,122,25,41.6
+4/1/2020,39,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,58,31,41
+4/2/2020,41,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,77,35,42.6
+4/3/2020,34,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,62,36,43.4
+4/4/2020,34,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,58,35,41
+4/5/2020,38,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,77,29,41.4
+4/6/2020,40,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,97,32,45
+4/7/2020,44,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,108,33,43.8
+4/8/2020,42,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,90,26,44
+4/9/2020,43,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,58,32,45.4
+4/10/2020,37,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,84,35,47.8
+4/11/2020,41,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,97,34,51.4
+4/12/2020,45,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,74,34,46.6
+4/13/2020,43,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,80,33,51.6
+4/14/2020,41,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,74,29,44
+4/15/2020,42,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,140,25,41.2
+4/16/2020,40,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,154,18,46.8
+4/17/2020,44,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,129,27,37.8
+4/18/2020,35,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,136,29,48.2
+4/19/2020,45,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,161,27,38.6
+4/20/2020,35,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,154,27,38.4
+4/21/2020,40,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,71,32,42.6
+4/22/2020,40,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,97,22,39.8
+4/23/2020,37,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,119,27,43.8
+4/24/2020,33,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,87,36,44.2
+4/25/2020,44,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,97,33,46
+4/26/2020,39,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,90,30,42.6
+4/27/2020,34,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,77,23,39.4
+4/28/2020,44,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,90,31,52.4
+4/29/2020,43,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,100,34,43.6
+4/30/2020,44,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,101,35,40.8
+5/1/2020,44,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,151,30,51
+5/2/2020,39,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,174,33,58.2
+5/3/2020,46,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,204,29,45.4
+5/4/2020,44,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,203,28,52.4
+5/5/2020,40,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,122,25,55.2
+5/6/2020,39,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,161,28,41.4
+5/7/2020,44,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,151,29,46.6
+5/8/2020,33,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,192,36,53.2
+5/9/2020,31,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,192,33,45.4
+5/10/2020,44,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,147,27,41.6
+5/11/2020,34,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,169,36,48.2
+5/12/2020,37,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,154,36,60.4
+5/13/2020,47,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,87,31,39.8
+5/14/2020,46,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,87,29,43.6
+5/15/2020,50,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,133,32,48.8
+5/16/2020,44,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,119,26,49.4
+5/17/2020,40,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,108,25,57.2
+5/18/2020,40,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,101,31,51.4
+5/19/2020,37,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,90,29,50.6
+5/20/2020,34,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,100,32,46.6
+5/21/2020,34,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,105,25,37.8
+5/22/2020,31,Ozone,Ocean,Colliers Mills,34-029-0006,AirNow,112,24,42.2
+2/12/2020,34,Ozone,Passaic,Ramapo,34-031-5001,AirNow,61,15,35
+2/13/2020,31,Ozone,Passaic,Ramapo,34-031-5001,AirNow,53,18,31.5
+2/14/2020,32,Ozone,Passaic,Ramapo,34-031-5001,AirNow,74,24,47.33333333
+2/15/2020,31,Ozone,Passaic,Ramapo,34-031-5001,AirNow,66,11,57
+2/16/2020,29,Ozone,Passaic,Ramapo,34-031-5001,AirNow,127,19,27
+2/17/2020,38,Ozone,Passaic,Ramapo,34-031-5001,AirNow,75,21,31.33333333
+2/18/2020,31,Ozone,Passaic,Ramapo,34-031-5001,AirNow,61,16,33.5
+2/19/2020,37,Ozone,Passaic,Ramapo,34-031-5001,AirNow,81,28,52.5
+2/20/2020,37,Ozone,Passaic,Ramapo,34-031-5001,AirNow,78,26,35.33333333
+2/21/2020,37,Ozone,Passaic,Ramapo,34-031-5001,AirNow,57,15,36
+2/22/2020,37,Ozone,Passaic,Ramapo,34-031-5001,AirNow,85,13,20.5
+2/23/2020,43,Ozone,Passaic,Ramapo,34-031-5001,AirNow,51,14,35.66666667
+2/24/2020,40,Ozone,Passaic,Ramapo,34-031-5001,AirNow,93,19,31
+2/25/2020,28,Ozone,Passaic,Ramapo,34-031-5001,AirNow,62,17,29.5
+2/26/2020,39,Ozone,Passaic,Ramapo,34-031-5001,AirNow,52,22,26.66666667
+2/27/2020,36,Ozone,Passaic,Ramapo,34-031-5001,AirNow,77,21,29.5
+2/28/2020,37,Ozone,Passaic,Ramapo,34-031-5001,AirNow,56,17,27
+3/1/2020,40,Ozone,Passaic,Ramapo,34-031-5001,AirNow,88,24,40.2
+3/2/2020,41,Ozone,Passaic,Ramapo,34-031-5001,AirNow,43,19,41.66666667
+3/3/2020,34,Ozone,Passaic,Ramapo,34-031-5001,AirNow,44,11,32.75
+3/4/2020,38,Ozone,Passaic,Ramapo,34-031-5001,AirNow,89,18,43
+3/5/2020,36,Ozone,Passaic,Ramapo,34-031-5001,AirNow,64,31,37.75
+3/6/2020,35,Ozone,Passaic,Ramapo,34-031-5001,AirNow,59,31,35.5
+3/7/2020,39,Ozone,Passaic,Ramapo,34-031-5001,AirNow,61,22,47
+3/8/2020,40,Ozone,Passaic,Ramapo,34-031-5001,AirNow,51,33,42.5
+3/9/2020,47,Ozone,Passaic,Ramapo,34-031-5001,AirNow,74,22,47.4
+3/10/2020,39,Ozone,Passaic,Ramapo,34-031-5001,AirNow,78,29,49.2
+3/11/2020,33,Ozone,Passaic,Ramapo,34-031-5001,AirNow,54,33,41.8
+3/12/2020,31,Ozone,Passaic,Ramapo,34-031-5001,AirNow,70,23,39.8
+3/13/2020,41,Ozone,Passaic,Ramapo,34-031-5001,AirNow,76,19,40
+3/14/2020,36,Ozone,Passaic,Ramapo,34-031-5001,AirNow,70,30,36.2
+3/15/2020,40,Ozone,Passaic,Ramapo,34-031-5001,AirNow,109,18,40.2
+3/16/2020,34,Ozone,Passaic,Ramapo,34-031-5001,AirNow,60,28,39.2
+3/17/2020,32,Ozone,Passaic,Ramapo,34-031-5001,AirNow,50,32,42.6
+3/18/2020,33,Ozone,Passaic,Ramapo,34-031-5001,AirNow,51,19,40.6
+3/19/2020,35,Ozone,Passaic,Ramapo,34-031-5001,AirNow,61,31,44.4
+3/20/2020,37,Ozone,Passaic,Ramapo,34-031-5001,AirNow,80,31,41.2
+3/21/2020,39,Ozone,Passaic,Ramapo,34-031-5001,AirNow,60,25,41
+3/22/2020,39,Ozone,Passaic,Ramapo,34-031-5001,AirNow,46,17,41.2
+3/23/2020,34,Ozone,Passaic,Ramapo,34-031-5001,AirNow,57,30,42.6
+3/24/2020,36,Ozone,Passaic,Ramapo,34-031-5001,AirNow,53,31,42.6
+3/25/2020,31,Ozone,Passaic,Ramapo,34-031-5001,AirNow,76,31,44.4
+3/26/2020,42,Ozone,Passaic,Ramapo,34-031-5001,AirNow,56,27,36.8
+3/27/2020,44,Ozone,Passaic,Ramapo,34-031-5001,AirNow,46,31,35.2
+3/28/2020,40,Ozone,Passaic,Ramapo,34-031-5001,AirNow,57,18,32.2
+3/29/2020,40,Ozone,Passaic,Ramapo,34-031-5001,AirNow,51,19,36.6
+3/30/2020,32,Ozone,Passaic,Ramapo,34-031-5001,AirNow,72,27,45.8
+3/31/2020,31,Ozone,Passaic,Ramapo,34-031-5001,AirNow,77,26,44
+4/1/2020,40,Ozone,Passaic,Ramapo,34-031-5001,AirNow,89,29,42.4
+4/2/2020,39,Ozone,Passaic,Ramapo,34-031-5001,AirNow,65,27,43.4
+4/3/2020,31,Ozone,Passaic,Ramapo,34-031-5001,AirNow,86,32,40.8
+4/4/2020,37,Ozone,Passaic,Ramapo,34-031-5001,AirNow,51,30,39.6
+4/5/2020,31,Ozone,Passaic,Ramapo,34-031-5001,AirNow,90,31,39.6
+4/6/2020,41,Ozone,Passaic,Ramapo,34-031-5001,AirNow,58,23,41.8
+4/7/2020,48,Ozone,Passaic,Ramapo,34-031-5001,AirNow,93,30,38.8
+4/8/2020,40,Ozone,Passaic,Ramapo,34-031-5001,AirNow,74,27,41.4
+4/9/2020,42,Ozone,Passaic,Ramapo,34-031-5001,AirNow,68,33,44.6
+4/10/2020,35,Ozone,Passaic,Ramapo,34-031-5001,AirNow,90,31,47.6
+4/11/2020,43,Ozone,Passaic,Ramapo,34-031-5001,AirNow,112,27,55.2
+4/12/2020,44,Ozone,Passaic,Ramapo,34-031-5001,AirNow,67,29,42
+4/13/2020,42,Ozone,Passaic,Ramapo,34-031-5001,AirNow,97,31,55
+4/14/2020,42,Ozone,Passaic,Ramapo,34-031-5001,AirNow,77,31,49.8
+4/15/2020,43,Ozone,Passaic,Ramapo,34-031-5001,AirNow,87,31,44.4
+4/16/2020,39,Ozone,Passaic,Ramapo,34-031-5001,AirNow,119,38,46
+4/17/2020,44,Ozone,Passaic,Ramapo,34-031-5001,AirNow,115,31,45.2
+4/18/2020,39,Ozone,Passaic,Ramapo,34-031-5001,AirNow,112,12,45.2
+4/19/2020,49,Ozone,Passaic,Ramapo,34-031-5001,AirNow,133,30,41.6
+4/20/2020,41,Ozone,Passaic,Ramapo,34-031-5001,AirNow,151,30,40.2
+4/21/2020,38,Ozone,Passaic,Ramapo,34-031-5001,AirNow,77,34,48.8
+4/22/2020,40,Ozone,Passaic,Ramapo,34-031-5001,AirNow,93,26,48.6
+4/23/2020,40,Ozone,Passaic,Ramapo,34-031-5001,AirNow,122,25,41.4
+4/24/2020,35,Ozone,Passaic,Ramapo,34-031-5001,AirNow,64,34,40.4
+4/25/2020,42,Ozone,Passaic,Ramapo,34-031-5001,AirNow,80,31,37.6
+4/26/2020,39,Ozone,Passaic,Ramapo,34-031-5001,AirNow,64,21,36.8
+4/27/2020,37,Ozone,Passaic,Ramapo,34-031-5001,AirNow,77,30,37.2
+4/28/2020,41,Ozone,Passaic,Ramapo,34-031-5001,AirNow,100,31,47.4
+4/29/2020,40,Ozone,Passaic,Ramapo,34-031-5001,AirNow,71,35,41.6
+4/30/2020,43,Ozone,Passaic,Ramapo,34-031-5001,AirNow,97,21,40.8
+5/1/2020,45,Ozone,Passaic,Ramapo,34-031-5001,AirNow,140,26,43.4
+5/2/2020,40,Ozone,Passaic,Ramapo,34-031-5001,AirNow,143,19,52.2
+5/3/2020,50,Ozone,Passaic,Ramapo,34-031-5001,AirNow,164,20,50.2
+5/4/2020,43,Ozone,Passaic,Ramapo,34-031-5001,AirNow,140,27,42
+5/5/2020,43,Ozone,Passaic,Ramapo,34-031-5001,AirNow,77,25,42.2
+5/6/2020,37,Ozone,Passaic,Ramapo,34-031-5001,AirNow,112,29,44.2
+5/7/2020,44,Ozone,Passaic,Ramapo,34-031-5001,AirNow,115,26,47.8
+5/8/2020,38,Ozone,Passaic,Ramapo,34-031-5001,AirNow,136,25,54.6
+5/9/2020,30,Ozone,Passaic,Ramapo,34-031-5001,AirNow,133,27,48.8
+5/10/2020,45,Ozone,Passaic,Ramapo,34-031-5001,AirNow,108,20,34.4
+5/11/2020,34,Ozone,Passaic,Ramapo,34-031-5001,AirNow,154,29,41
+5/12/2020,44,Ozone,Passaic,Ramapo,34-031-5001,AirNow,85,28,43.4
+5/13/2020,44,Ozone,Passaic,Ramapo,34-031-5001,AirNow,80,25,33
+5/14/2020,46,Ozone,Passaic,Ramapo,34-031-5001,AirNow,54,19,36
+5/15/2020,58,Ozone,Passaic,Ramapo,34-031-5001,AirNow,150,28,45.2
+5/16/2020,41,Ozone,Passaic,Ramapo,34-031-5001,AirNow,84,28,40.2
+5/17/2020,44,Ozone,Passaic,Ramapo,34-031-5001,AirNow,100,25,50
+5/18/2020,46,Ozone,Passaic,Ramapo,34-031-5001,AirNow,87,27,52.6
+5/19/2020,42,Ozone,Passaic,Ramapo,34-031-5001,AirNow,71,27,42.4
+5/20/2020,43,Ozone,Passaic,Ramapo,34-031-5001,AirNow,97,25,38.4
+5/21/2020,36,Ozone,Passaic,Ramapo,34-031-5001,AirNow,105,27,40
+5/22/2020,39,Ozone,Passaic,Ramapo,34-031-5001,AirNow,115,19,37.4
+1/1/2020,19,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,118,23,35.6
+1/2/2020,53,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,134,19,48
+1/3/2020,57,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,87,15,45
+1/4/2020,46,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,87,17,40.8
+1/5/2020,17,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,112,24,40.6
+1/6/2020,37,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,113,18,45.4
+1/7/2020,40,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,98,27,48.2
+1/8/2020,43,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,111,25,50.2
+1/9/2020,29,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,98,21,44.8
+1/10/2020,35,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,141,12,41
+1/11/2020,26,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,141,23,50.2
+1/12/2020,29,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,78,21,42
+1/13/2020,50,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,121,18,30.6
+1/14/2020,55,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,86,20,38.6
+1/15/2020,52,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,88,8,61.4
+1/16/2020,45,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,79,18,51.2
+1/17/2020,5,PM2.5,Union,Rahway,34-039-2003,AirNow,83,25,44.8
+1/18/2020,18,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,77,10,45.8
+1/19/2020,31,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,94,17,38.8
+1/20/2020,17,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,71,19,32.6
+1/21/2020,21,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,156,17,41.2
+1/22/2020,36,PM2.5,Union,Rahway,34-039-2003,AirNow,110,22,46.6
+1/23/2020,64,PM2.5,Union,Rahway,34-039-2003,AirNow,109,23,39.6
+1/24/2020,80,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,63,12,27.6
+1/25/2020,31,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,90,21,36.6
+1/26/2020,30,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,102,25,44
+1/27/2020,35,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,80,18,34.75
+1/28/2020,15,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,97,25,41.4
+1/29/2020,14,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,116,13,49.6
+1/30/2020,35,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,122,24,41.4
+1/31/2020,50,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,90,20,41.6
+2/1/2020,62,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,132,20,54.2
+2/2/2020,46,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,121,32,46.4
+2/3/2020,48,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,90,26,47.2
+2/4/2020,56,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,90,27,51.8
+2/5/2020,23,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,98,19,46.8
+2/6/2020,45,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,112,28,49.8
+2/7/2020,36,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,96,20,68.2
+2/8/2020,31,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,96,18,56.4
+2/9/2020,50,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,103,23,47.6
+2/10/2020,39,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,85,25,46.6
+2/11/2020,42,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,87,5,50
+2/12/2020,34,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,72,23,39.8
+2/13/2020,36,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,76,10,39.2
+2/14/2020,27,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,80,22,43.2
+2/15/2020,18,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,112,20,56.6
+2/16/2020,38,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,151,20,37.6
+2/17/2020,53,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,76,15,38.6
+2/18/2020,50,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,80,16,51.2
+2/19/2020,33,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,106,15,43.2
+2/20/2020,13,PM2.5,Union,Rahway,34-039-2003,AirNow,103,22,41
+2/21/2020,25,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,122,23,44.2
+2/22/2020,39,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,96,22,52.6
+2/23/2020,48,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,94,25,50.4
+2/24/2020,67,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,102,16,40.8
+2/25/2020,54,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,84,19,37
+2/26/2020,32,PM2.5,Union,Rahway,34-039-2003,AirNow,98,18,29.8
+2/27/2020,20,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,92,6,36.4
+2/28/2020,36,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,67,32,45.8
+2/29/2020,27,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,54,37,.
+3/1/2020,22,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,91,15,57.4
+3/2/2020,52,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,89,23,42.8
+3/3/2020,55,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,64,20,38
+3/4/2020,11,PM2.5,Union,Rahway,34-039-2003,AirNow,109,15,42
+3/5/2020,34,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,105,25,35.8
+3/6/2020,40,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,69,18,46.6
+3/7/2020,20,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,92,19,55.2
+3/8/2020,23,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,94,27,54
+3/9/2020,46,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,84,20,52.6
+3/10/2020,40,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,84,18,52.2
+3/11/2020,30,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,96,20,33.6
+3/12/2020,52,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,87,22,29
+3/13/2020,27,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,114,18,35
+3/14/2020,19,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,113,17,29.4
+3/15/2020,20,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,120,17,29.2
+3/16/2020,25,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,84,22,39
+3/17/2020,28,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,72,18,33.4
+3/18/2020,31,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,96,24,37.8
+3/19/2020,40,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,73,21,29.6
+3/20/2020,43,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,78,23,43
+3/21/2020,28,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,76,22,43
+3/22/2020,26,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,84,18,29.8
+3/23/2020,21,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,95,19,33.2
+3/24/2020,20,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,72,20,39
+3/25/2020,32,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,80,25,51.8
+3/26/2020,30,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,104,24,41
+3/27/2020,30,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,70,21,36.8
+3/28/2020,39,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,83,22,43.6
+3/29/2020,17,PM2.5,Union,Rahway,34-039-2003,AirNow,78,18,37
+3/30/2020,43,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,99,22,45.2
+3/31/2020,21,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,100,17,42.8
+4/1/2020,22,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,68,18,26.6
+4/2/2020,13,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,85,16,33.4
+4/3/2020,13,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,76,21,41.8
+4/4/2020,18,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,75,22,43.8
+4/5/2020,52,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,73,13,36.2
+4/6/2020,30,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,101,18,41.8
+4/7/2020,21,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,108,16,33.6
+4/8/2020,46,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,73,20,32.6
+4/9/2020,31,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,75,12,37.8
+4/10/2020,17,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,75,22,38
+4/11/2020,19,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,70,22,42.4
+4/12/2020,44,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,82,21,47
+4/13/2020,23,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,64,17,40.6
+4/14/2020,18,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,80,13,43.2
+4/15/2020,24,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,84,21,39.2
+4/16/2020,30,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,79,17,33.2
+4/17/2020,33,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,90,21,29
+4/18/2020,43,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,79,17,38.6
+4/19/2020,35,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,99,24,33
+4/20/2020,25,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,93,21,38.4
+4/21/2020,38,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,87,22,39.8
+4/22/2020,16,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,79,8,39
+4/23/2020,35,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,83,13,33.2
+4/24/2020,39,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,63,20,34.2
+4/25/2020,34,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,76,22,34.6
+4/26/2020,25,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,63,20,37.8
+4/27/2020,10,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,83,18,35
+4/28/2020,18,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,76,16,39.8
+4/29/2020,46,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,69,22,35
+4/30/2020,41,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,72,23,32.4
+5/1/2020,19,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,81,23,35.4
+5/2/2020,18,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,95,28,48.4
+5/13/2020,23,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,112,17,33
+5/14/2020,40,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,76,18,27.4
+5/15/2020,57,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,77,18,31.2
+5/16/2020,30,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,75,24,38.4
+5/17/2020,21,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,68,19,52.4
+5/18/2020,22,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,79,18,53.4
+5/19/2020,30,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,71,19,43.8
+5/20/2020,25,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,61,22,35.2
+5/21/2020,42,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,82,19,31.6
+5/22/2020,32,PM2.5,Union,Elizabeth Lab,34-039-0004,AirNow,92,25,36.2
+1/1/2020,28,Ozone,Warren,Columbia,34-041-0007,AirNow,110,18,31.6
+1/2/2020,53,PM2.5,Warren,Columbia,34-041-0007,AirNow,55,13,38.5
+1/3/2020,64,PM2.5,Warren,Columbia,34-041-0007,AirNow,57,14,38
+1/4/2020,29,PM2.5,Warren,Columbia,34-041-0007,AirNow,85,25,37.25
+1/5/2020,31,Ozone,Warren,Columbia,34-041-0007,AirNow,91,18,31.6
+1/6/2020,32,PM2.5,Warren,Columbia,34-041-0007,AirNow,67,24,39.8
+1/7/2020,32,PM2.5,Warren,Columbia,34-041-0007,AirNow,90,19,37.8
+1/8/2020,31,Ozone,Warren,Columbia,34-041-0007,AirNow,72,22,47.2
+1/9/2020,25,Ozone,Warren,Columbia,34-041-0007,AirNow,91,18,40.8
+1/10/2020,42,PM2.5,Warren,Columbia,34-041-0007,AirNow,65,9,39.8
+1/11/2020,31,PM2.5,Warren,Columbia,34-041-0007,AirNow,83,28,45.4
+1/12/2020,30,Ozone,Warren,Columbia,34-041-0007,AirNow,67,14,44.6
+1/13/2020,27,PM2.5,Warren,Columbia,34-041-0007,AirNow,109,12,30
+1/14/2020,56,PM2.5,Warren,Columbia,34-041-0007,AirNow,76,10,32.8
+1/15/2020,40,PM2.5,Warren,Columbia,34-041-0007,AirNow,81,5,59.2
+1/16/2020,36,PM2.5,Warren,Columbia,34-041-0007,AirNow,66,12,52.8
+1/17/2020,31,Ozone,Warren,Columbia,34-041-0007,AirNow,92,22,47.2
+1/18/2020,29,Ozone,Warren,Columbia,34-041-0007,AirNow,63,24,47
+1/19/2020,44,PM2.5,Warren,Columbia,34-041-0007,AirNow,84,20,38.4
+1/20/2020,31,Ozone,Warren,Columbia,34-041-0007,AirNow,64,22,31.2
+1/21/2020,30,Ozone,Warren,Columbia,34-041-0007,AirNow,55,18,37.8
+1/22/2020,53,PM2.5,Warren,Columbia,34-041-0007,AirNow,83,15,39.8
+1/23/2020,75,PM2.5,Warren,Columbia,34-041-0007,AirNow,53,26,37.2
+1/24/2020,72,PM2.5,Warren,Columbia,34-041-0007,AirNow,63,20,37.8
+1/25/2020,32,PM2.5,Warren,Columbia,34-041-0007,AirNow,88,24,37.8
+1/26/2020,22,Ozone,Warren,Columbia,34-041-0007,AirNow,91,17,50.8
+1/27/2020,23,Ozone,Warren,Columbia,34-041-0007,AirNow,66,20,45.8
+1/28/2020,31,Ozone,Warren,Columbia,34-041-0007,AirNow,76,20,41.2
+1/29/2020,31,Ozone,Warren,Columbia,34-041-0007,AirNow,82,11,46
+1/30/2020,28,PM2.5,Warren,Columbia,34-041-0007,AirNow,75,23,32.4
+1/31/2020,54,PM2.5,Warren,Columbia,34-041-0007,AirNow,78,17,39.6
+2/1/2020,52,PM2.5,Warren,Columbia,34-041-0007,AirNow,89,20,53.6
+2/2/2020,46,PM2.5,Warren,Columbia,34-041-0007,AirNow,92,13,48.4
+2/3/2020,33,Ozone,Warren,Columbia,34-041-0007,AirNow,103,13,48
+2/4/2020,20,Ozone,Warren,Columbia,34-041-0007,AirNow,98,16,45
+2/5/2020,23,Ozone,Warren,Columbia,34-041-0007,AirNow,72,24,44.6
+2/6/2020,25,PM2.5,Warren,Columbia,34-041-0007,AirNow,74,26,42
+2/7/2020,32,Ozone,Warren,Columbia,34-041-0007,AirNow,83,15,43.2
+2/8/2020,35,Ozone,Warren,Columbia,34-041-0007,AirNow,89,23,45.6
+2/9/2020,42,PM2.5,Warren,Columbia,34-041-0007,AirNow,114,21,37.8
+2/10/2020,40,PM2.5,Warren,Columbia,34-041-0007,AirNow,81,24,44.8
+2/11/2020,33,PM2.5,Warren,Columbia,34-041-0007,AirNow,68,31,43.8
+2/12/2020,31,PM2.5,Warren,Columbia,34-041-0007,AirNow,64,17,35.8
+2/13/2020,28,Ozone,Warren,Columbia,34-041-0007,AirNow,54,18,33
+2/14/2020,30,PM2.5,Warren,Columbia,34-041-0007,AirNow,72,25,44.6
+2/15/2020,32,Ozone,Warren,Columbia,34-041-0007,AirNow,94,14,53.4
+2/16/2020,44,PM2.5,Warren,Columbia,34-041-0007,AirNow,90,28,33.2
+2/17/2020,48,PM2.5,Warren,Columbia,34-041-0007,AirNow,79,23,34
+2/18/2020,34,PM2.5,Warren,Columbia,34-041-0007,AirNow,69,25,36
+2/19/2020,34,Ozone,Warren,Columbia,34-041-0007,AirNow,79,9,43.2
+2/20/2020,33,Ozone,Warren,Columbia,34-041-0007,AirNow,98,25,34.6
+2/21/2020,34,Ozone,Warren,Columbia,34-041-0007,AirNow,70,6,38.6
+2/22/2020,37,Ozone,Warren,Columbia,34-041-0007,AirNow,81,18,39.8
+2/23/2020,40,Ozone,Warren,Columbia,34-041-0007,AirNow,72,11,39.8
+2/24/2020,36,Ozone,Warren,Columbia,34-041-0007,AirNow,126,11,33.2
+2/25/2020,54,PM2.5,Warren,Columbia,34-041-0007,AirNow,53,18,31.8
+2/26/2020,56,PM2.5,Warren,Columbia,34-041-0007,AirNow,54,29,33
+2/27/2020,36,Ozone,Warren,Columbia,34-041-0007,AirNow,62,16,36.2
+2/28/2020,38,Ozone,Warren,Columbia,34-041-0007,AirNow,54,17,43
+2/29/2020,35,Ozone,Warren,Columbia,34-041-0007,AirNow,60,43,.
+3/1/2020,39,Ozone,Warren,Columbia,34-041-0007,AirNow,100,18,48.4
+3/2/2020,49,PM2.5,Warren,Columbia,34-041-0007,AirNow,45,15,40.5
+3/3/2020,40,PM2.5,Warren,Columbia,34-041-0007,AirNow,54,15,39
+3/4/2020,37,Ozone,Warren,Columbia,34-041-0007,AirNow,61,21,43
+3/5/2020,30,PM2.5,Warren,Columbia,34-041-0007,AirNow,81,12,35
+3/6/2020,52,PM2.5,Warren,Columbia,34-041-0007,AirNow,54,13,39.25
+3/7/2020,36,Ozone,Warren,Columbia,34-041-0007,AirNow,75,25,66
+3/8/2020,39,Ozone,Warren,Columbia,34-041-0007,AirNow,64,6,50.6
+3/9/2020,43,Ozone,Warren,Columbia,34-041-0007,AirNow,69,33,52.2
+3/10/2020,43,PM2.5,Warren,Columbia,34-041-0007,AirNow,79,32,45.6
+3/11/2020,31,Ozone,Warren,Columbia,34-041-0007,AirNow,71,29,38
+3/12/2020,35,PM2.5,Warren,Columbia,34-041-0007,AirNow,68,25,35
+3/13/2020,41,Ozone,Warren,Columbia,34-041-0007,AirNow,87,22,39.8
+3/14/2020,35,Ozone,Warren,Columbia,34-041-0007,AirNow,70,27,35.8
+3/15/2020,33,Ozone,Warren,Columbia,34-041-0007,AirNow,82,24,38
+3/16/2020,35,Ozone,Warren,Columbia,34-041-0007,AirNow,61,22,38.6
+3/17/2020,30,Ozone,Warren,Columbia,34-041-0007,AirNow,59,27,40.6
+3/18/2020,35,Ozone,Warren,Columbia,34-041-0007,AirNow,58,12,41.2
+3/19/2020,24,PM2.5,Warren,Columbia,34-041-0007,AirNow,56,17,39
+3/20/2020,36,Ozone,Warren,Columbia,34-041-0007,AirNow,81,18,36
+3/21/2020,34,Ozone,Warren,Columbia,34-041-0007,AirNow,56,20,34.4
+3/22/2020,37,Ozone,Warren,Columbia,34-041-0007,AirNow,61,19,38.4
+3/23/2020,26,Ozone,Warren,Columbia,34-041-0007,AirNow,64,15,40.4
+3/24/2020,30,Ozone,Warren,Columbia,34-041-0007,AirNow,51,14,41.8
+3/25/2020,23,Ozone,Warren,Columbia,34-041-0007,AirNow,67,24,45.8
+3/26/2020,42,PM2.5,Warren,Columbia,34-041-0007,AirNow,53,15,35.2
+3/27/2020,23,PM2.5,Warren,Columbia,34-041-0007,AirNow,43,15,37.2
+3/28/2020,25,PM2.5,Warren,Columbia,34-041-0007,AirNow,75,15,46.6
+3/29/2020,10,PM2.5,Warren,Columbia,34-041-0007,AirNow,58,13,43.6
+3/30/2020,21,PM2.5,Warren,Columbia,34-041-0007,AirNow,73,6,44.2
+3/31/2020,14,PM2.5,Warren,Columbia,34-041-0007,AirNow,48,8,37.2
+4/1/2020,35,Ozone,Warren,Columbia,34-041-0007,AirNow,61,5,36.6
+4/2/2020,39,Ozone,Warren,Columbia,34-041-0007,AirNow,54,18,42.6
+4/3/2020,31,Ozone,Warren,Columbia,34-041-0007,AirNow,73,23,43.6
+4/4/2020,33,Ozone,Warren,Columbia,34-041-0007,AirNow,43,12,38.2
+4/5/2020,37,Ozone,Warren,Columbia,34-041-0007,AirNow,47,23,38.6
+4/6/2020,20,PM2.5,Warren,Columbia,34-041-0007,AirNow,47,20,40.2
+4/7/2020,48,Ozone,Warren,Columbia,34-041-0007,AirNow,68,13,38.2
+4/8/2020,37,Ozone,Warren,Columbia,34-041-0007,AirNow,52,26,36.6
+4/9/2020,39,Ozone,Warren,Columbia,34-041-0007,AirNow,50,25,37.4
+4/10/2020,37,Ozone,Warren,Columbia,34-041-0007,AirNow,87,26,45.4
+4/11/2020,42,Ozone,Warren,Columbia,34-041-0007,AirNow,84,22,49
+4/12/2020,45,Ozone,Warren,Columbia,34-041-0007,AirNow,59,15,46
+4/14/2020,43,Ozone,Warren,Columbia,34-041-0007,AirNow,84,29,45
+4/15/2020,41,Ozone,Warren,Columbia,34-041-0007,AirNow,60,10,40.8
+4/16/2020,37,Ozone,Warren,Columbia,34-041-0007,AirNow,80,25,42.8
+4/17/2020,42,Ozone,Warren,Columbia,34-041-0007,AirNow,79,15,42
+4/18/2020,37,Ozone,Warren,Columbia,34-041-0007,AirNow,74,13,46
+4/19/2020,47,Ozone,Warren,Columbia,34-041-0007,AirNow,71,29,39.4
+4/20/2020,37,Ozone,Warren,Columbia,34-041-0007,AirNow,60,23,40
+4/21/2020,37,Ozone,Warren,Columbia,34-041-0007,AirNow,71,10,50.2
+4/22/2020,38,Ozone,Warren,Columbia,34-041-0007,AirNow,79,21,43.8
+4/23/2020,37,Ozone,Warren,Columbia,34-041-0007,AirNow,54,19,44
+4/24/2020,31,PM2.5,Warren,Columbia,34-041-0007,AirNow,49,18,40.8
+4/25/2020,41,Ozone,Warren,Columbia,34-041-0007,AirNow,55,13,34
+4/26/2020,31,Ozone,Warren,Columbia,34-041-0007,AirNow,53,9,37.8
+4/27/2020,31,Ozone,Warren,Columbia,34-041-0007,AirNow,52,24,38.6
+4/28/2020,44,Ozone,Warren,Columbia,34-041-0007,AirNow,71,5,40.2
+4/29/2020,34,Ozone,Warren,Columbia,34-041-0007,AirNow,51,13,40.4
+4/30/2020,37,Ozone,Warren,Columbia,34-041-0007,AirNow,48,17,35.6
+5/1/2020,32,Ozone,Warren,Columbia,34-041-0007,AirNow,90,27,46.8
+5/2/2020,38,Ozone,Warren,Columbia,34-041-0007,AirNow,112,25,55
+5/3/2020,48,Ozone,Warren,Columbia,34-041-0007,AirNow,72,10,41.2
+5/4/2020,35,Ozone,Warren,Columbia,34-041-0007,AirNow,93,18,48.2
+5/5/2020,43,Ozone,Warren,Columbia,34-041-0007,AirNow,51,20,34.8
+5/6/2020,25,Ozone,Warren,Columbia,34-041-0007,AirNow,83,13,29.6
+5/7/2020,43,Ozone,Warren,Columbia,34-041-0007,AirNow,97,13,45
+5/8/2020,29,Ozone,Warren,Columbia,34-041-0007,AirNow,115,17,53
+5/9/2020,31,Ozone,Warren,Columbia,34-041-0007,AirNow,98,13,46.4
+5/10/2020,44,Ozone,Warren,Columbia,34-041-0007,AirNow,44,14,34.2
+5/11/2020,31,Ozone,Warren,Columbia,34-041-0007,AirNow,48,16,37.4
+5/12/2020,40,Ozone,Warren,Columbia,34-041-0007,AirNow,99,20,42.6
+5/13/2020,40,Ozone,Warren,Columbia,34-041-0007,AirNow,84,1,24.4
+5/14/2020,49,Ozone,Warren,Columbia,34-041-0007,AirNow,54,19,35.2
+5/15/2020,58,Ozone,Warren,Columbia,34-041-0007,AirNow,74,25,42.25
+5/16/2020,34,Ozone,Warren,Columbia,34-041-0007,AirNow,80,4,41
+5/17/2020,41,Ozone,Warren,Columbia,34-041-0007,AirNow,101,23,50
+5/18/2020,40,Ozone,Warren,Columbia,34-041-0007,AirNow,80,19,52
+5/19/2020,37,Ozone,Warren,Columbia,34-041-0007,AirNow,55,17,41
+5/20/2020,39,Ozone,Warren,Columbia,34-041-0007,AirNow,61,25,33.4
+5/21/2020,43,Ozone,Warren,Columbia,34-041-0007,AirNow,79,17,37.4
+5/22/2020,33,Ozone,Warren,Columbia,34-041-0007,AirNow,64,18,34
